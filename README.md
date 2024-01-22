@@ -10,10 +10,14 @@
   Desktop, Application and Game Developer 🎮 <br/>
   And I also enjoy Problem Solving 📝 <br/>
   <br/>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kookjd7759)](https://solved.ac/kookjd7759/)
+
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kookjd7759&theme=vue&show_icons=true)
+  
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kookjd7759&theme=vue&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kookjd7759)](https://solved.ac/kookjd7759/)
 
 <br/>
 
