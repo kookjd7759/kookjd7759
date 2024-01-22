@@ -27,6 +27,7 @@
 ### ⭐⭐ 
 ![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logoColor=FFFFFF)
 ![HTML](https://img.shields.io/badge/HTML-9999FF.svg?&style=for-the-badge&logo=HTML&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
 ![Ocaml](https://img.shields.io/badge/Ocaml-EC6813.svg?&style=for-the-badge&logo=ocaml&logoColor=FFFFFF)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=FFFFFF)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=FFFFFF)
