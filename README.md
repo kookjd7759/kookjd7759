@@ -32,4 +32,7 @@
 ![Raspberry_pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF)
 
 #### ⭐
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=FFFFFF)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?&style=for-the-badge&logo=wireshark&logoColor=FFFFFF)
