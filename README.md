@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&height=122&color=gradient&text=🇰🇷%20Dev_Donggyun-Kook%20💻&reversal=true&fontColor=000000&fontSize=42&animation=twinkling&fontAlign=34&fontAlignY=33&desc=KNU%20Computer%20Engineering%20Student%20/%20Programmer%20/%20Junior%20Desktop,%20Application,%20Game%20developer&descSize=14&descAlignY=60&descAlign=58&rotate=-8)
+![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=1&text=Dong-gyun%20Kook&reversal=true&fontColor=ECF0F1&fontSize=55&animation=fadeIn&fontAlign=70&fontAlignY=31&descAlignY=60&descAlign=58&stroke=000000&strokeWidth=1)
+
+
 
 <h6 align="center">KNU Computer Engineering Student / Programmer / Junior Desktop, Application, Game developer</h6>
 
