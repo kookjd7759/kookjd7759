@@ -17,10 +17,8 @@
 
 <br/>
 
-### 🔨 Once I've used 🔨
-#### Language
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF)
-![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
-![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logoColor=FFFFFF)
+### 🔨 Once I've used 🔨 
+#### ⭐⭐⭐ ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF) ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logoColor=FFFFFF)
+#### ⭐⭐ ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=FFFFFF)
+
+#### ⭐ ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=FFFFFF)
