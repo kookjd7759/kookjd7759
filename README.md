@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=1&text=Dong-gyun%20Kook&reversal=true&fontColor=ECF0F1&fontSize=55&animation=fadeIn&fontAlign=70&fontAlignY=31&descAlignY=60&descAlign=58&stroke=000000&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=1&text=Dong-gyun%20Kook&reversal=true&fontColor=FFFFFF&fontSize=55&animation=fadeIn&fontAlign=70&fontAlignY=31&descAlignY=60&descAlign=58)
 
 
 
