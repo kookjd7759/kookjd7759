@@ -31,6 +31,7 @@
 ![Ocaml](https://img.shields.io/badge/Ocaml-EC6813.svg?&style=for-the-badge&logo=ocaml&logoColor=FFFFFF)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=FFFFFF)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=FFFFFF)
 ![Raspberry_pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF)
 
 ### ⭐
