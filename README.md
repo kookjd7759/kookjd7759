@@ -44,7 +44,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 
 <br/>
+
 ## 🏆 Prize 🏆
+
 ### Contest
 
 강원대학교, [2020학년도 핵심역량진단 수기 공모전] - "협동하는 나, 성장하는 너, 미래 인재는 우리", 장려상
