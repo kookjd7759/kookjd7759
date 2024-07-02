@@ -46,9 +46,7 @@
 <br/>
 
 ## 🏆 Prize 🏆
-
 ### Contest
-
 강원대학교, [2020학년도 핵심역량진단 수기 공모전] - "협동하는 나, 성장하는 너, 미래 인재는 우리", 장려상
 강원대학교, [2021년 SW학습/활동 수기 공모전(SW활동부문)] - "성장의 기틀을 다져준 T.A 활동", 장려상
 🔗[Link](https://sw.kangwon.ac.kr/index.php?mt=page&mp=5_1&mm=oxbbs&oxid=1&cpage=2&key=TITLE_CONTENT&val=%B0%F8%B8%F0%C0%FC&CAT_ID=0&BID=550&cmd=view)
