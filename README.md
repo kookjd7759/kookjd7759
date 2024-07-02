@@ -29,8 +29,6 @@
 
 ### ⭐⭐ 
 ![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logoColor=FFFFFF)
-![HTML](https://img.shields.io/badge/HTML-9999FF.svg?&style=for-the-badge&logo=HTML&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
 ![Ocaml](https://img.shields.io/badge/Ocaml-EC6813.svg?&style=for-the-badge&logo=ocaml&logoColor=FFFFFF)
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=FFFFFF)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=FFFFFF)
@@ -39,6 +37,8 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?&style=for-the-badge&logo=wireshark&logoColor=FFFFFF)
 
 ### ⭐
+![HTML](https://img.shields.io/badge/HTML-9999FF.svg?&style=for-the-badge&logo=HTML&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=FFFFFF)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=FFFFFF)
