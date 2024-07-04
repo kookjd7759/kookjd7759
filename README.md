@@ -3,13 +3,6 @@
 <div align="center">
   👋 Welcome to my github profile ! <br/>
   <br/>
-  <br/>
-  I'm <br/>
-  KNU computer science student 📖 <br/>
-  and Programmer 💻 <br/>
-  Desktop, Application and Game Developer 🎮 <br/>
-  And I also enjoy Problem Solving 📝 <br/>
-  <br/>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kookjd7759)](https://solved.ac/kookjd7759/)
 
