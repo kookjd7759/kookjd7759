@@ -32,8 +32,7 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?&style=for-the-badge&logo=wireshark&logoColor=FFFFFF)
 
 ### ⭐
-<img src="https://img.shields.io/badge/HTML-9999FF.svg?&style=for-the-badge&logo=HTML&logoColor=FFFFF"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-9999FF.svg?&style=for-the-badge&logo=HTML&logoColor=FFFFF"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=FFFFFF)
