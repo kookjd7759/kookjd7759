@@ -37,6 +37,7 @@
 
 ![JS](https://img.shields.io/badge/JS-F7DF1E.svg?&style=for-the-badge&logo=HTML&logoColor=FFFFFF)
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=FFFFFF)
