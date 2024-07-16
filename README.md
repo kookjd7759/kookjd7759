@@ -33,6 +33,11 @@
 
 ### ⭐
 ![HTML](https://img.shields.io/badge/HTML-9999FF.svg?&style=for-the-badge&logo=HTML&logoColor=FFFFFF)
+
+
+![JS](https://img.shields.io/badge/JS-F7DF1E.svg?&style=for-the-badge&logo=HTML&logoColor=FFFFFF)
+
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=FFFFFF)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=FFFFFF)
