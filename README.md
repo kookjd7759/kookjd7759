@@ -17,28 +17,28 @@
 
 ## 🔨 Once I've used 🔨 
 ### ⭐⭐⭐ 
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=FFFFFF)
-![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
-![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=FFFFFF)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=FFFFFF) 
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=c&logoColor=FFFFFF)
+![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=FFFFFF)
+![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=flat-square&logo=csharp&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=FFFFFF) 
 
 ### ⭐⭐ 
-![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logoColor=FFFFFF)
-![Ocaml](https://img.shields.io/badge/Ocaml-EC6813.svg?&style=for-the-badge&logo=ocaml&logoColor=FFFFFF)
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=FFFFFF)
-![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=FFFFFF)
-![Raspberry_pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?&style=for-the-badge&logo=wireshark&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=flat-square&logo=Java&logoColor=FFFFFF)
+![Ocaml](https://img.shields.io/badge/Ocaml-EC6813.svg?&style=flat-square&logo=ocaml&logoColor=FFFFFF)
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=FFFFFF)
+![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=unity&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=FFFFFF)
+![Raspberry_pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=flat-square&logo=raspberrypi&logoColor=FFFFFF)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?&style=flat-square&logo=wireshark&logoColor=FFFFFF)
 
 ### ⭐
 
-![HTML](https://img.shields.io/badge/HTML-9999FF.svg?&style=for-the-badge&logo=HTML&logoColor=FFFFF)
+![HTML](https://img.shields.io/badge/HTML-9999FF.svg?&style=flat-square&logo=HTML&logoColor=FFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
-![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=FFFFFF)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=nodedotjs&logoColor=FFFFFF)
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=r&logoColor=FFFFFF)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=FFFFFF)
 
 <br/>
 
