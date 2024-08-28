@@ -43,7 +43,7 @@
 
 ## 📖 Experience 📖
 <details>
-  <summary> <b>Contest</b> </summary> 
+  <summary> 🏆 <b>Contest</b> </summary> 
   
   강원대학교, **[2020학년도 핵심역량진단 수기 공모전]** - "협동하는 나, 성장하는 너, 미래 인재는 우리", ***장려상***
   
@@ -58,7 +58,7 @@
 
 
 <details>
-  <summary> <b>Hackathon</b> </summary> 
+  <summary> 🏃🏻‍♂️ <b>Hackathon</b> </summary> 
   
   과학기술정보통신부/정보통신신산업진흥원, **[2021 공공데이터 활용 문제해결 해커톤 대회]** ***장려상***
   
@@ -69,7 +69,7 @@
 
 
 <details>
-  <summary> <b>Paper</b> </summary> 
+  <summary> 📜 <b>Paper</b> </summary> 
 
   국동균, 한성수. (2022). **커뮤니케이션 플랫폼을 활용한 단말 기기 원격 제어 및 IoT 서비스.** 한국정보처리학회 학술대회논문집, 29(2), 110-112. [View](https://kiss.kstudy.com/Detail/Ar?key=3988321)
   
