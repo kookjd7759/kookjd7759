@@ -56,6 +56,7 @@
 </details>
 
 
+
 <details>
   <summary> <b>Hackathon</b> </summary> 
   
@@ -64,6 +65,19 @@
   과학기술정보통신부/정보통신신산업진흥원, **[2022 공공데이터 활용 문제해결 기술개발 해커톤 대회]** ***장려상***
 
 </details>
+
+
+
+<details>
+  <summary> <b>Paper</b> </summary> 
+
+  국동균, 한성수. (2022). **커뮤니케이션 플랫폼을 활용한 단말 기기 원격 제어 및 IoT 서비스.** 한국정보처리학회 학술대회논문집, 29(2), 110-112. [View](https://kiss.kstudy.com/Detail/Ar?key=3988321)
+  
+  국동균, 한성수. (2023). **태양열 에너지 발전을 통한 가상화폐 채굴.** 한국정보처리학회 학술대회논문집, 30(1), 76-77. [View](https://kiss.kstudy.com/Detail/Ar?key=4028267)
+
+</details>
+
+
 
 <details>
   <summary> <b>certificate</b> </summary> 
