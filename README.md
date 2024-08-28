@@ -41,7 +41,7 @@
 
 <br/>
 
-## 🏆 Prize 🏆
+## 📖 Experience 📖
 <details>
   <summary> <b>Contest</b> </summary> 
   
@@ -80,7 +80,7 @@
 
 
 <details>
-  <summary> <b>Certificate</b> </summary> 
+  <summary> 🪪 <b>Certificate</b> </summary> 
   
   2023.08.25 | 대한상공회의소, **컴퓨터 활용 능력 1급**
 
