@@ -53,7 +53,7 @@
   
   한국정보처리학회, **[ACK 2023 학부생 논문경진대회]** - ["태양열 에너지 발전을 통한 가상화폐 채굴"](https://kiss.kstudy.com/Detail/Ar?key=4028267), ***은상*** 🥈
 
-  한국언론진흥재단, **[제5회 뉴스읽기 뉴스일기 공모전]** - ***금상*** [LINK](https://www.xn--ok0ba883aba238rca497fea.org/gallery/list.php?y=5)🥇
+  한국언론진흥재단, **[제5회 뉴스읽기 뉴스일기 공모전]** - ***금상***  [View](https://www.xn--ok0ba883aba238rca497fea.org/gallery/list.php?y=5)🥇
 
 </details>
 
