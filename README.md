@@ -45,28 +45,21 @@
 
 ## 📖 Experience 📖
 <details>
-  <summary> 🏆 <b>Contest</b> </summary> 
+  <summary> 🏆 <b>Contest & Price </b> </summary> 
   
   강원대학교, **[2020학년도 핵심역량진단 수기 공모전]** - ["협동하는 나, 성장하는 너, 미래 인재는 우리"](https://itl.kangwon.ac.kr/ko/module/boarduniv/@viewer/dataroom/7548), ***장려상***
   
   강원대학교, **[2021년 SW학습/활동 수기 공모전(SW활동부문)]** - ["성장의 기틀을 다져준 T.A 활동"](https://sw.kangwon.ac.kr/index.php?mt=page&mp=5_1&mm=oxbbs&oxid=1&cpage=2&key=TITLE_CONTENT&val=%B0%F8%B8%F0%C0%FC&CAT_ID=0&BID=550&cmd=view), ***장려상***
   
+  과학기술정보통신부/정보통신신산업진흥원, **[2021 공공데이터 활용 문제해결 해커톤 대회]** - ***장려상***
+  
+  과학기술정보통신부/정보통신신산업진흥원, **[2022 공공데이터 활용 문제해결 기술개발 해커톤 대회]** - ***장려상***
+
   한국정보처리학회, **[ACK 2022 학부생 논문경진대회]** - ["커뮤니케이션 플랫폼을 활용한 단말 기기 원격 제어 및 IoT 서비스"](https://kiss.kstudy.com/Detail/Ar?key=3988321), ***장려상***
   
   한국정보처리학회, **[ACK 2023 학부생 논문경진대회]** - ["태양열 에너지 발전을 통한 가상화폐 채굴"](https://kiss.kstudy.com/Detail/Ar?key=4028267), ***은상*** 🥈
 
   한국언론진흥재단, **[제5회 뉴스읽기 뉴스일기 공모전]** - ***금상***  [View](https://www.xn--ok0ba883aba238rca497fea.org/gallery/list.php?y=5)🥇
-
-</details>
-
-
-
-<details>
-  <summary> 🏃🏻‍♂️ <b>Hackathon</b> </summary> 
-  
-  과학기술정보통신부/정보통신신산업진흥원, **[2021 공공데이터 활용 문제해결 해커톤 대회]** - ***장려상***
-  
-  과학기술정보통신부/정보통신신산업진흥원, **[2022 공공데이터 활용 문제해결 기술개발 해커톤 대회]** - ***장려상***
 
 </details>
 
