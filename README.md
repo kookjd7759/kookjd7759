@@ -61,10 +61,7 @@
 
   한국언론진흥재단, **[제5회 뉴스읽기 뉴스일기 공모전]** - ***금상***  [View](https://www.xn--ok0ba883aba238rca497fea.org/gallery/list.php?y=5)🥇
 
-  한국언론진흥재단, **[제5회 뉴스읽기 뉴스일기 공모전]** - ***금상***  [View](https://www.xn--ok0ba883aba238rca497fea.org/gallery/list.php?y=5)🥇
-
   강원대학교 최우혁, **[HCI 2025 OUTSTANDING PROJECT AWARD]** - [HCI 2025 award](https://github.com/user-attachments/assets/e50dd462-2a0b-4f0e-a524-bf7f1f420c8c)
-
 
 </details>
 
