@@ -51,9 +51,10 @@
   
   강원대학교, **[2021년 SW학습/활동 수기 공모전(SW활동부문)]** - ["성장의 기틀을 다져준 T.A 활동"](https://sw.kangwon.ac.kr/index.php?mt=page&mp=5_1&mm=oxbbs&oxid=1&cpage=2&key=TITLE_CONTENT&val=%B0%F8%B8%F0%C0%FC&CAT_ID=0&BID=550&cmd=view), ***장려상***
   
-  과학기술정보통신부/정보통신신산업진흥원, **[2021 공공데이터 활용 문제해결 해커톤 대회]** - ***장려상***
+  과학기술정보통신부&정보통신신산업진흥원, **[2021 공공데이터 활용 문제해결 해커톤 대회]** [View](https://github.com/user-attachments/assets/89a15c58-e49d-4ef0-a14d-0e153e295c08) - ***장려상*** 
   
-  과학기술정보통신부/정보통신신산업진흥원, **[2022 공공데이터 활용 문제해결 기술개발 해커톤 대회]** - ***장려상***
+  과학기술정보통신부&정보통신신산업진흥원, **[2022 공공데이터 활용 문제해결 기술개발 해커톤 대회]** [View](https://github.com/user-attachments/assets/0176e22d-38e1-4806-af5e-626a16c9c104) - ***장려상*** 
+
 
   한국정보처리학회, **[ACK 2022 학부생 논문경진대회]** - ["커뮤니케이션 플랫폼을 활용한 단말 기기 원격 제어 및 IoT 서비스"](https://kiss.kstudy.com/Detail/Ar?key=3988321), ***장려상***
   
