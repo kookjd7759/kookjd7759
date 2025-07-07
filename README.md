@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=1&text=Dong-gyun%20Kook&reversal=true&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlign=67&fontAlignY=30&desc=💻%20🇰🇷&descSize=40&descAlignY=20&descAlign=8&stroke=000000&strokeWidth=0)
+![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=1&text=Dong-gyun%20Kook&reversal=true&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlign=67&fontAlignY=30&desc=💻%20🇰🇷&descSize=40&descAlignY=20&descAlign=8&stroke=909090&strokeWidth=2)
 ---
 <div align="center">
   👋 Welcome to my github profile ! <br/>
