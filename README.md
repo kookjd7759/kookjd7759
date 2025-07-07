@@ -3,9 +3,6 @@
 <div align="center">
   👋 Welcome to my github profile ! <br/>
   
-  [programmers Profile](https://career.programmers.co.kr/pr/kookjd7759_2633)
-  
-  <br/>
   <br/>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kookjd7759)](https://solved.ac/kookjd7759/)
