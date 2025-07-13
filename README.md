@@ -66,6 +66,6 @@
 
 
 ### 🪪 Certificate
-| 취득일 | 자격증명 | 발급기관 | 취득 확인서 |
+| 자격증명 | 발급기관 | 취득일 | 취득 확인서 |
 |--------|----------|---------|:-------------:|
-| 2023.08.25 | 컴퓨터 활용능력 1급 (Computer Specialist in Spreadsheet & Database Level -Ⅰ) | 대한상공회의소 | [보기](https://github.com/user-attachments/files/21103555/1._Ko.pdf) |
+| 컴퓨터 활용능력 1급 (Computer Specialist in Spreadsheet & Database Level -Ⅰ) | 대한상공회의소 | 2023.08.25 | [보기](https://github.com/user-attachments/files/21103555/1._Ko.pdf) |
