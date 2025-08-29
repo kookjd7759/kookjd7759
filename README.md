@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=1&text=Dong-gyun%20Kook&reversal=true&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlign=67&fontAlignY=30&desc=💻%20🇰🇷&descSize=40&descAlignY=20&descAlign=8&stroke=909090&strokeWidth=2)
 ---
+
 <div align="center">
   
   👋 Welcome to my GitHub profile! <br/>
@@ -12,10 +13,7 @@
   특히 **자동화 중심의 소프트웨어를 만드는 과정**에서 큰 즐거움을 느끼며, <br/>
   **컴퓨터 비전, 데이터 분석, IoT** 등 다양한 분야를 꾸준히 탐구하고 학습하고 있습니다. <br/>
 
-
-  
 </div>
-
 
 <br/>
 
@@ -53,6 +51,11 @@
 | 국동균, 한성수 | 2022 | 커뮤니케이션 플랫폼을 활용한 단말 기기 원격 제어 및 IoT 서비스 | 한국정보처리학회 학술대회논문집 | 29(2), pp.110–112 | [보기](https://kiss.kstudy.com/Detail/Ar?key=3988321) |
 | 국동균, 한성수 | 2023 | 태양열 에너지 발전을 통한 가상화폐 채굴 | 한국정보처리학회 학술대회논문집 | 30(1), pp.76–77 | [보기](https://kiss.kstudy.com/Detail/Ar?key=4028267) |
 
+<br/>
 
+## 🔥 Activity 🔥
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kookjd7759&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kookjd7759)](https://solved.ac/kookjd7759/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kookjd7759&layout=compact&theme=tokyonight)
 
