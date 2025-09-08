@@ -44,7 +44,7 @@
 |--------|----------|---------|:-------------:|
 | 1종 보통 운전 면허 (Class 1 Driver’s License) | 도로교통공단 | 2020.08.07 | - |
 | 컴퓨터 활용능력 1급 (Computer Specialist in Spreadsheet & Database Level -Ⅰ) | 대한상공회의소 | 2023.08.25 | [보기](https://github.com/user-attachments/assets/638aaeec-b11e-4d26-8ac9-0e5a7002cce2) |
-| 데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional) | 한국데이터산업진흥원 | 2025.09.05 | [보기](https://github.com/user-attachments/files/22199255/ADsP_Ko.pdf)) |
+| 데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional) | 한국데이터산업진흥원 | 2025.09.05 | [보기](https://github.com/user-attachments/assets/9b13a1c3-8b52-47aa-aa1b-e95371900078) |
 
 ### 📜 Papers
 | 저자 | 연도 | 논문 제목 | 학술대회/저널 | 권(호), 페이지 | 링크 |
