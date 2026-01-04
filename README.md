@@ -19,7 +19,7 @@
 
 #### **Kangwon National University, Main Campus** (강원대학교, 본교)<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *B.S. in Computer Engineering* (컴퓨터 공학과)
  - 📅 Mar 2020 – Feb 2026  
- - 🎯 **GPA: 4.4 / 4.5**
+ - 🎯 **GPA: 4.40 / 4.50**
 
 #### **Bucheon High School** (부천고등학교)  
  - 📅 Mar 2017 – Jan 2019
