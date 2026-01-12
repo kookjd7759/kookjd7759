@@ -17,7 +17,7 @@
 
 ## 🎓 Education 🎓
 
-#### **Kangwon National University, Main Campus** (강원대학교, 본교)<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *B.S. in Computer Engineering* (컴퓨터 공학과)
+#### **Kangwon National University, Main Campus** (강원대학교, 본교)<br/> &nbsp;&nbsp;&nbsp; *B.S. in Computer Science and Engineering* (컴퓨터 공학과)
  - 📅 Mar 2020 – Feb 2026  
  - 🎯 **GPA: 4.40 / 4.50**
 
