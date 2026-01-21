@@ -1,4 +1,4 @@
-![ASK 2022 논문경진대회 장려상](https://github.com/user-attachments/assets/e200d3f8-1e99-4ca5-b743-d095d58f4fa1)![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=1&text=Dong-gyun%20Kook&reversal=true&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlign=67&fontAlignY=30&desc=💻%20🇰🇷&descSize=40&descAlignY=20&descAlign=8&stroke=909090&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=1&text=Dong-gyun%20Kook&reversal=true&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlign=67&fontAlignY=30&desc=💻%20🇰🇷&descSize=40&descAlignY=20&descAlign=8&stroke=909090&strokeWidth=2)
 ---
 
 <div align="center">
