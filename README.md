@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=1&text=Dong-gyun%20Kook&reversal=true&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlign=67&fontAlignY=30&desc=💻%20🇰🇷&descSize=40&descAlignY=20&descAlign=8&stroke=909090&strokeWidth=2)
+![ASK 2022 논문경진대회 장려상](https://github.com/user-attachments/assets/e200d3f8-1e99-4ca5-b743-d095d58f4fa1)![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=1&text=Dong-gyun%20Kook&reversal=true&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlign=67&fontAlignY=30&desc=💻%20🇰🇷&descSize=40&descAlignY=20&descAlign=8&stroke=909090&strokeWidth=2)
 ---
 
 <div align="center">
@@ -42,14 +42,14 @@
 ### 🏆 Awards
 | 대회명 | 주최 | 수상 결과 | 링크 |
 |--------|------|----------|:------:|
-| 2020 핵심역량진단 수기 공모전 | 강원대학교 | 장려상 | [보기](https://itl.kangwon.ac.kr/ko/module/boarduniv/@viewer/dataroom/7548) |
-| 2021 SW학습/활동 수기 공모전 (SW활동부문) | 강원대학교 | 장려상 | [보기](https://sw.kangwon.ac.kr/index.php?mt=page&mp=5_1&mm=oxbbs&oxid=1&cpage=2&key=TITLE_CONTENT&val=%B0%F8%B8%F0%C0%FC&CAT_ID=0&BID=550&cmd=view) |
+| 2020 핵심역량진단 수기 공모전 | 강원대학교 | 장려상 | [2020 핵심역량진단 수기 공모전](https://github.com/user-attachments/assets/66f83c4b-3d04-495f-82c7-c510f67310ce) |
+| 2021 SW학습/활동 수기 공모전 (SW활동부문) | 강원대학교 | 장려상 | [2021 SW학습 활동 수기 공모전](https://github.com/user-attachments/assets/f2b057b7-6070-4b25-933c-bd0b76b389d7) |
 | 2021 공공데이터 활용 문제해결 해커톤 | 과학기술정보통신부 & 정보통신산업진흥원 | 장려상 | [보기](https://github.com/user-attachments/assets/89a15c58-e49d-4ef0-a14d-0e153e295c08) |
 | 2022년 동북권 공공데이터 활용 챌린지 | 과학기술정보통신부 & 정보통신산업진흥원 | 장려상 | [보기](https://github.com/user-attachments/assets/0176e22d-38e1-4806-af5e-626a16c9c104) |
-| ACK 2022 학부생 논문경진대회 | 한국정보처리학회 | 장려상 | [보기](https://kiss.kstudy.com/Detail/Ar?key=3988321) |
-| ACK 2023 학부생 논문경진대회 | 한국정보처리학회 | 은상 🥈 | [보기](https://kiss.kstudy.com/Detail/Ar?key=4028267) |
-| 2024 제5회 뉴스읽기 뉴스일기 공모전 | 한국언론진흥재단 | 금상 🥇 | [보기](https://www.xn--ok0ba883aba238rca497fea.org/gallery/list.php?y=5) |
-| HCI 2025 OUTSTANDING PROJECT AWARD | 강원대학교, 최우혁 | 단독 수상 🏅 | [보기](https://github.com/user-attachments/assets/e50dd462-2a0b-4f0e-a524-bf7f1f420c8c) |
+| ACK 2022 학부생 논문경진대회 | 한국정보처리학회 | 장려상 | [ASK 2022 논문경진대회 장려상](https://github.com/user-attachments/assets/d411ebd8-acb7-4b69-813c-25aa827dc5d6) |
+| ACK 2023 학부생 논문경진대회 | 한국정보처리학회 | 은상 🥈 | [ASK 2023 논문경진대회 은상](https://github.com/user-attachments/assets/723bdde1-d4e3-47b0-86f7-b846506d5bf5) |
+| 2024 제5회 뉴스읽기 뉴스일기 공모전 | 한국언론진흥재단 | 금상 🥇 | [2024 제5회 뉴스읽기 뉴스일기 공모전](https://github.com/user-attachments/assets/98ddc0c5-6342-41b4-9cb5-bc8a040300e0) |
+| HCI 2025 OUTSTANDING PROJECT AWARD | 강원대학교, 최우혁 | 단독 수상 🏅 | [2025 HCI](https://github.com/user-attachments/assets/f8c74b8c-e41b-456e-a084-df4b6b6536b3) |
 
 ### 🪪 Certificate
 | 자격증명 | 발급기관 | 취득일 | 취득 확인서 |
