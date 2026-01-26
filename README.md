@@ -16,7 +16,6 @@
 </div>
 
 
-
 ## 🎓 Education
 
 <div>
@@ -85,7 +84,6 @@
   </div>
   <br clear="left"/>
 </div>
-
 
 
 <br/>
