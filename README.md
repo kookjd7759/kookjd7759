@@ -15,6 +15,63 @@
 
 </div>
 
+
+## 🎓 Education
+
+<div>
+  <img
+    src="https://i.namu.wiki/i/An5mFROiD7MnRwB0SXP8k-BMeVnpTiWB1Vf2atoI9yco-hHDD-CyTQ0UASL5ktk7sueDdf3OQBNQXfstMPPh3YE9uyjsmELk9rBmIsBHfrVmALG-wnN7kZqyT4nGHJCnx2YoqEcgeLdX0gtBDCIyGA.svg"
+    width="100"
+    align="left"
+    hspace="16"
+  />
+  <div>
+    <strong>Hyundai AutoEver Mobility SW School, 3rd Cohort</strong> (현대오토에버 모빌리티 SW 스쿨 3기)<br/>
+    <em>Embedded Software, 6th Cohort</em> (임베디드 SW 6기)<br/>
+    📅 Dec 2025 – Jun 2026 (Expected)
+  </div>
+  <br clear="left"/>
+</div>
+
+<br/>
+
+<div>
+  <img
+    src="https://i.namu.wiki/i/WVP4scoTZ0U0PquOZXCl9DUOlgtMX63n237adDUPphBxo7uw1xDWsrSxbXO2C6GSSj5Z719L4ZabFYroNbEZpONmKoLc-czYN4jiJ7E0GumOtsQ8O5Ezcrnk-bM0sH5zYl8M7RtBuxJSV3NSfkjcWQ.svg"
+    width="100"
+    align="left"
+    hspace="16"
+  />
+  <div>
+    <strong>Kangwon National University, Main Campus</strong> (강원대학교, 본교)<br/>
+    <em>B.S. in Computer Science and Engineering</em> (컴퓨터 공학과)<br/>
+    📅 Mar 2020 – Feb 2026<br/>
+    🎯 <strong>GPA: 4.40 / 4.50</strong>
+  </div>
+  <br clear="left"/>
+</div>
+
+<br/>
+
+<div>
+  <img
+    src="https://i.namu.wiki/i/qP_OLtYrGvs--CXq2HQwMtCzc4H5jgEUnlL6jSrPceRG3TMrFwD8CKkS1xN68r3VfWZUh5gtKdMRYT4viDl7FukCA1MfHkH6uIGN4YGflhLoktXfHuHI2DFqotnQ_lVnsvpA6Z8QXa46viS9t9cU9w.webp"
+    width="100"
+    align="left"
+    hspace="16"
+  />
+  <div>
+    <strong>Bucheon High School</strong> (부천고등학교)<br/>
+    📅 Mar 2017 – Jan 2019
+  </div>
+  <br clear="left"/>
+</div>
+
+
+
+
+
+
 ## 🎓 Education 🎓
 #### **Hyundai AutoEver Mobility SW School, 3rd Cohort**(현대오토에버 모빌리티 SW 스쿨 3기)<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Embedded Software, 6th Cohort* (임베디드 SW 6기)
  - 📅 Dec 2025 – Jun 2026(Expected)
