@@ -21,14 +21,32 @@
 
 <div>
   <img
-    src="https://i.namu.wiki/i/An5mFROiD7MnRwB0SXP8k-BMeVnpTiWB1Vf2atoI9yco-hHDD-CyTQ0UASL5ktk7sueDdf3OQBNQXfstMPPh3YE9uyjsmELk9rBmIsBHfrVmALG-wnN7kZqyT4nGHJCnx2YoqEcgeLdX0gtBDCIyGA.svg"
-    width="100"
+    src="https://i.namu.wiki/i/rMz-Jn1zuBMsZQbFJ7Iup30onTL29U-mhLZEGfrI-fbB5iIXh03hm0kHqBQLeCeJyjtGusQ-p46S89nT7m4Q78GBcpdZkotHxx9RJ5gIkrCrNkcZ-OVXmQAumdILPFqumo5RUctSigV-Py9YfO-O7w.svg"
+    width="150"
     align="left"
     hspace="5"
+    vspace="50"
+  />
+  <div>
+    <strong>Samsung Electronics DX Division 2026 University Student Software Algorithm Skills Enhancement Program </strong><br/>
+    <strong>(삼성전자 DX부문 2026 대학생 S/W 알고리즘 역량 강화 특강) </strong><br/>
+    📅 Feb 2025 – Mar 2026 (Expected)
+  </div>
+  <br clear="left"/>
+</div>
+
+<br/>
+
+<div>
+  <img
+    src="https://i.namu.wiki/i/An5mFROiD7MnRwB0SXP8k-BMeVnpTiWB1Vf2atoI9yco-hHDD-CyTQ0UASL5ktk7sueDdf3OQBNQXfstMPPh3YE9uyjsmELk9rBmIsBHfrVmALG-wnN7kZqyT4nGHJCnx2YoqEcgeLdX0gtBDCIyGA.svg"
+    width="140"
+    align="left"
+    hspace="10"
   />
   <div>
     <strong>Hyundai AutoEver Mobility SW School, 3rd Cohort (현대오토에버 모빌리티 SW 스쿨 3기) </strong><br/>
-    <em>&nbsp;Embedded Software, 6th Cohort</em> (임베디드 SW 6기)<br/>
+    <em>&nbsp;Embedded Software, 6th Cohort (임베디드 SW 6기) </em><br/>
     📅 Dec 2025 – Jun 2026 (Expected)
   </div>
   <br clear="left"/>
@@ -39,13 +57,13 @@
 <div>
   <img
     src="https://i.namu.wiki/i/WVP4scoTZ0U0PquOZXCl9DUOlgtMX63n237adDUPphBxo7uw1xDWsrSxbXO2C6GSSj5Z719L4ZabFYroNbEZpONmKoLc-czYN4jiJ7E0GumOtsQ8O5Ezcrnk-bM0sH5zYl8M7RtBuxJSV3NSfkjcWQ.svg"
-    width="100"
+    width="110"
     align="left"
-    hspace="5"
+    hspace="25"
   />
   <div>
     <strong>Kangwon National University, Main Campus (강원대학교, 본교) </strong><br/>
-    <em>&nbsp;B.S. in Computer Science and Engineering</em> (컴퓨터 공학과)<br/>
+    <em>&nbsp;B.S. in Computer Science and Engineering (컴퓨터 공학과) </em><br/>
     📅 Mar 2020 – Feb 2026<br/>
     🎯 <strong>GPA: 4.40 / 4.50</strong>
   </div>
@@ -59,7 +77,7 @@
     src="https://i.namu.wiki/i/qP_OLtYrGvs--CXq2HQwMtCzc4H5jgEUnlL6jSrPceRG3TMrFwD8CKkS1xN68r3VfWZUh5gtKdMRYT4viDl7FukCA1MfHkH6uIGN4YGflhLoktXfHuHI2DFqotnQ_lVnsvpA6Z8QXa46viS9t9cU9w.webp"
     width="70"
     align="left"
-    hspace="20"
+    hspace="45"
   />
   <div>
     <strong>Bucheon High School (부천고등학교) </strong><br/>
