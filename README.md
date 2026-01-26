@@ -28,7 +28,7 @@
     vspace="50"
   />
   <div>
-    <strong>Samsung Electronics DX Division 2026 University Student Software Algorithm Skills Enhancement Program </strong><br/>
+    <strong>Samsung Electronics DX Division 2026 Software Algorithm Training Program </strong><br/>
     <strong>(삼성전자 DX부문 2026 대학생 S/W 알고리즘 역량 강화 특강) </strong><br/>
     📅 Feb 2025 – Mar 2026 (Expected)
   </div>
