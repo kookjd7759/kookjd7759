@@ -16,6 +16,7 @@
 </div>
 
 
+
 ## 🎓 Education
 
 <div>
@@ -68,20 +69,6 @@
 </div>
 
 
-
-
-
-
-## 🎓 Education 🎓
-#### **Hyundai AutoEver Mobility SW School, 3rd Cohort**(현대오토에버 모빌리티 SW 스쿨 3기)<br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Embedded Software, 6th Cohort* (임베디드 SW 6기)
- - 📅 Dec 2025 – Jun 2026(Expected)
-
-#### **Kangwon National University, Main Campus** (강원대학교, 본교)<br/> &nbsp;&nbsp;&nbsp;&nbsp; *B.S. in Computer Science and Engineering* (컴퓨터 공학과)
- - 📅 Mar 2020 – Feb 2026  
- - 🎯 **GPA: 4.40 / 4.50**
-
-#### **Bucheon High School** (부천고등학교)  
- - 📅 Mar 2017 – Jan 2019
 
 <br/>
 
