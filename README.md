@@ -27,7 +27,7 @@
     hspace="5"
   />
   <div>
-    <strong>Hyundai AutoEver Mobility SW School, 3rd Cohort</strong> (현대오토에버 모빌리티 SW 스쿨 3기)<br/>
+    <strong>Hyundai AutoEver Mobility SW School, 3rd Cohort (현대오토에버 모빌리티 SW 스쿨 3기) </strong><br/>
     <em>Embedded Software, 6th Cohort</em> (임베디드 SW 6기)<br/>
     📅 Dec 2025 – Jun 2026 (Expected)
   </div>
@@ -44,7 +44,7 @@
     hspace="5"
   />
   <div>
-    <strong>Kangwon National University, Main Campus</strong> (강원대학교, 본교)<br/>
+    <strong>Kangwon National University, Main Campus (강원대학교, 본교) </strong><br/>
     <em>B.S. in Computer Science and Engineering</em> (컴퓨터 공학과)<br/>
     📅 Mar 2020 – Feb 2026<br/>
     🎯 <strong>GPA: 4.40 / 4.50</strong>
@@ -62,7 +62,7 @@
     hspace="20"
   />
   <div>
-    <strong>Bucheon High School</strong> (부천고등학교)<br/>
+    <strong>Bucheon High School (부천고등학교) </strong><br/>
     📅 Mar 2017 – Jan 2019
   </div>
   <br clear="left"/>
