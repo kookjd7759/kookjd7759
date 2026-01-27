@@ -37,9 +37,9 @@
 <div>
   <img
     src="https://i.namu.wiki/i/An5mFROiD7MnRwB0SXP8k-BMeVnpTiWB1Vf2atoI9yco-hHDD-CyTQ0UASL5ktk7sueDdf3OQBNQXfstMPPh3YE9uyjsmELk9rBmIsBHfrVmALG-wnN7kZqyT4nGHJCnx2YoqEcgeLdX0gtBDCIyGA.svg"
-    width="140"
+    width="120"
     align="left"
-    hspace="10"
+    hspace="20"
   />
   <div>
     <strong>Hyundai AutoEver Mobility SW School, 3rd Cohort (현대오토에버 모빌리티 SW 스쿨 3기) </strong><br/>
