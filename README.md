@@ -24,7 +24,6 @@
     width="150"
     align="left"
     hspace="5"
-    vspace="50"
   />
   <div>
     <strong>Samsung Electronics DX Division 2026 Software Algorithm Training Program </strong><br/>
