@@ -20,21 +20,6 @@
 
 <div>
   <img
-    src="https://i.namu.wiki/i/rMz-Jn1zuBMsZQbFJ7Iup30onTL29U-mhLZEGfrI-fbB5iIXh03hm0kHqBQLeCeJyjtGusQ-p46S89nT7m4Q78GBcpdZkotHxx9RJ5gIkrCrNkcZ-OVXmQAumdILPFqumo5RUctSigV-Py9YfO-O7w.svg"
-    width="150"
-    align="left"
-    hspace="5"
-  />
-  <div>
-    <strong>Samsung Electronics DX Division 2026 Software Algorithm Training Program </strong><br/>
-    <strong>(삼성전자 DX부문 2026 대학생 S/W 알고리즘 역량 강화 특강) </strong><br/>
-    📅 Feb 2025 (Expected) – Mar 2026 (Expected)
-  </div>
-  <br clear="left"/>
-</div>
-
-<div>
-  <img
     src="https://i.namu.wiki/i/An5mFROiD7MnRwB0SXP8k-BMeVnpTiWB1Vf2atoI9yco-hHDD-CyTQ0UASL5ktk7sueDdf3OQBNQXfstMPPh3YE9uyjsmELk9rBmIsBHfrVmALG-wnN7kZqyT4nGHJCnx2YoqEcgeLdX0gtBDCIyGA.svg"
     width="120"
     align="left"
