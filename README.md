@@ -1,20 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=1&text=Dong-gyun%20Kook&reversal=true&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlign=67&fontAlignY=30&desc=💻%20🇰🇷&descSize=40&descAlignY=20&descAlign=8&stroke=909090&strokeWidth=2)
----
+---  
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!" />
+  </a>
+</p>
+
 
 <div align="center">
   
-  👋 Welcome to my GitHub profile!  
   I'm a developer who turns curiosity into code.  
   I focus on **automation 🤖** and **embedded systems**, learning and growing by building and experimenting hands-on.  
 
-  👋 제 GitHub 프로필에 오신 것을 환영합니다!  
   호기심을 코드로 구현하는 개발자입니다.  
   **자동화 🤖**와 **임베디드 시스템**을 중심으로, 직접 만들고 실험하며 성장하고 있습니다.
 
 </div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kookjd7759&bg_color=ffffff&color=000000&line=2ea043&area_color=2ea043&point=2ea043&area=true&hide_border=true)
-
 
 <table>
   <tr>
