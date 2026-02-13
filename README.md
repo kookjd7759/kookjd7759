@@ -4,14 +4,12 @@
 <div align="center">
   
   👋 Welcome to my GitHub profile!  
-  I'm a Computer Engineering student who loves turning curiosity into code.  
-  I especially enjoy building software with a focus on **automation 🤖**,  
-  and I keep exploring areas like **computer vision, data analytics, and IoT** through constant learning and experimentation.  
-  
+  I'm a developer who turns curiosity into code.  
+  I focus on **automation 🤖** and **embedded systems**, learning and growing by building and experimenting hands-on.  
+
   👋 제 GitHub 프로필에 오신 것을 환영합니다!  
-  저는 호기심을 코드로 풀어내는 것을 좋아하는 컴퓨터공학과 학생입니다.  
-  특히 **자동화 🤖 중심의 소프트웨어를 만드는 과정**에서 큰 즐거움을 느끼며,  
-  **컴퓨터 비전, 데이터 분석, IoT** 등 다양한 분야를 꾸준히 탐구하고 학습하고 있습니다.  
+  호기심을 코드로 구현하는 개발자입니다.  
+  **자동화 🤖**와 **임베디드 시스템**을 중심으로, 직접 만들고 실험하며 성장하고 있습니다.
 
 </div>
 
