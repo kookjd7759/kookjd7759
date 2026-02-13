@@ -58,9 +58,9 @@
 <div>
   <img
     src="https://i.namu.wiki/i/WVP4scoTZ0U0PquOZXCl9DUOlgtMX63n237adDUPphBxo7uw1xDWsrSxbXO2C6GSSj5Z719L4ZabFYroNbEZpONmKoLc-czYN4jiJ7E0GumOtsQ8O5Ezcrnk-bM0sH5zYl8M7RtBuxJSV3NSfkjcWQ.svg"
-    width="100"
+    width="90"
     align="left"
-    hspace="30"
+    hspace="35"
   />
   <div>
     <strong>Kangwon National University, Main Campus (강원대학교, 본교) </strong><br/>
