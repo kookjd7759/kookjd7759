@@ -110,5 +110,7 @@
 
 <br/>
 
-## 🔥 Activity 🔥
+## 🔥 Activity 🔥  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kookjd7759&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kookjd7759&show_icons=true&include_all_commits=true&count_private=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kookjd7759)](https://solved.ac/kookjd7759/)
