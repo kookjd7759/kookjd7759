@@ -30,6 +30,7 @@
     <em>&nbsp;Embedded Software, 6th Cohort (임베디드 SW 6기) </em><br/>
     📅 Dec 2025 – Jun 2026 (Expected)
   </div>
+  <a href="https://github.com/kookjd7759/Hyundai-AutoEver-Mobility-SW-School-3rd-Cohort"> 🔗 View Repository </a>
   <br clear="left"/>
 </div>
 
