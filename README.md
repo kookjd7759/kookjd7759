@@ -13,7 +13,8 @@
 
 </div>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kookjd7759&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kookjd7759&bg_color=ffffff&color=000000&line=2ea043&area_color=2ea043&point=2ea043&area=true&hide_border=true)
+
 
 <table>
   <tr>
