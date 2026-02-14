@@ -45,62 +45,7 @@
 
 ### ⭐ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=nodedotjs&logoColor=FFFFFF) ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=r&logoColor=FFFFFF) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=FFFFFF)
 
-
-## 🎓 Education 🎓  
-
-<div>
-  <img
-    src="https://i.namu.wiki/i/An5mFROiD7MnRwB0SXP8k-BMeVnpTiWB1Vf2atoI9yco-hHDD-CyTQ0UASL5ktk7sueDdf3OQBNQXfstMPPh3YE9uyjsmELk9rBmIsBHfrVmALG-wnN7kZqyT4nGHJCnx2YoqEcgeLdX0gtBDCIyGA.svg"
-    width="120"
-    align="left"
-    hspace="20"/>
-  <div>
-    <strong>Hyundai AutoEver Mobility SW School, 3rd Cohort (현대오토에버 모빌리티 SW 스쿨 3기) </strong><br/>
-    <em>&nbsp;Embedded Software, 6th Cohort (임베디드 SW 6기) </em><br/>
-    📅 Dec 2025 – Jun 2026 (Expected)
-  </div>
-  <a href="https://github.com/kookjd7759/Hyundai-AutoEver-Mobility-SW-School-3rd-Cohort"> 🔗 View Details </a>
-  <br clear="left"/>
-</div>
-
-<br/>
-
-<div>
-  <img
-    src="https://i.namu.wiki/i/WVP4scoTZ0U0PquOZXCl9DUOlgtMX63n237adDUPphBxo7uw1xDWsrSxbXO2C6GSSj5Z719L4ZabFYroNbEZpONmKoLc-czYN4jiJ7E0GumOtsQ8O5Ezcrnk-bM0sH5zYl8M7RtBuxJSV3NSfkjcWQ.svg"
-    width="100"
-    align="left"
-    hspace="30"/>
-  <div>
-    <strong>Kangwon National University, Main Campus (강원대학교, 본교) </strong><br/>
-    <em>&nbsp;B.S. in Computer Science and Engineering (컴퓨터 공학과) </em><br/>
-    📅 Mar 2020 – Feb 2026<br/>
-    🎓 <strong>GPA: 4.40 / 4.50</strong>
-  </div>
-  <br clear="left"/>
-</div>
-
-<br/>
-
-<div>
-  <img
-    src="https://i.namu.wiki/i/qP_OLtYrGvs--CXq2HQwMtCzc4H5jgEUnlL6jSrPceRG3TMrFwD8CKkS1xN68r3VfWZUh5gtKdMRYT4viDl7FukCA1MfHkH6uIGN4YGflhLoktXfHuHI2DFqotnQ_lVnsvpA6Z8QXa46viS9t9cU9w.webp"
-    width="70"
-    align="left"
-    hspace="45"/>
-  <div>
-    <strong>Bucheon High School (부천고등학교) </strong><br/>
-    📅 Mar 2017 – Jan 2019
-  </div>
-  <br clear="left"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kookjd7759"/>
-</div>
-
 ## 📖 Experience 📖  
-
 ### 🏆 Awards  
 - **<🥉 장려상(Encouragement Award)> - 2020학년도 강원대학교 핵심역량진단 수기 공모전**
   <sub> 강원대학교 · 2021.02.15</sub>
@@ -164,4 +109,59 @@
   <sub><a href="https://kiss.kstudy.com/Detail/Ar?key=4028267">🌐 View Paper</a></sub>  
 
 <br/>
+
+
+
+## 🎓 Education 🎓  
+
+<div>
+  <img
+    src="https://i.namu.wiki/i/An5mFROiD7MnRwB0SXP8k-BMeVnpTiWB1Vf2atoI9yco-hHDD-CyTQ0UASL5ktk7sueDdf3OQBNQXfstMPPh3YE9uyjsmELk9rBmIsBHfrVmALG-wnN7kZqyT4nGHJCnx2YoqEcgeLdX0gtBDCIyGA.svg"
+    width="120"
+    align="left"
+    hspace="20"/>
+  <div>
+    <strong>Hyundai AutoEver Mobility SW School, 3rd Cohort (현대오토에버 모빌리티 SW 스쿨 3기) </strong><br/>
+    <em>&nbsp;Embedded Software, 6th Cohort (임베디드 SW 6기) </em><br/>
+    📅 Dec 2025 – Jun 2026 (Expected)
+  </div>
+  <a href="https://github.com/kookjd7759/Hyundai-AutoEver-Mobility-SW-School-3rd-Cohort"> 🔗 View Details </a>
+  <br clear="left"/>
+</div>
+
+<br/>
+
+<div>
+  <img
+    src="https://i.namu.wiki/i/WVP4scoTZ0U0PquOZXCl9DUOlgtMX63n237adDUPphBxo7uw1xDWsrSxbXO2C6GSSj5Z719L4ZabFYroNbEZpONmKoLc-czYN4jiJ7E0GumOtsQ8O5Ezcrnk-bM0sH5zYl8M7RtBuxJSV3NSfkjcWQ.svg"
+    width="100"
+    align="left"
+    hspace="30"/>
+  <div>
+    <strong>Kangwon National University, Main Campus (강원대학교, 본교) </strong><br/>
+    <em>&nbsp;B.S. in Computer Science and Engineering (컴퓨터 공학과) </em><br/>
+    📅 Mar 2020 – Feb 2026<br/>
+    🎓 <strong>GPA: 4.40 / 4.50</strong>
+  </div>
+  <br clear="left"/>
+</div>
+
+<br/>
+
+<div>
+  <img
+    src="https://i.namu.wiki/i/qP_OLtYrGvs--CXq2HQwMtCzc4H5jgEUnlL6jSrPceRG3TMrFwD8CKkS1xN68r3VfWZUh5gtKdMRYT4viDl7FukCA1MfHkH6uIGN4YGflhLoktXfHuHI2DFqotnQ_lVnsvpA6Z8QXa46viS9t9cU9w.webp"
+    width="70"
+    align="left"
+    hspace="45"/>
+  <div>
+    <strong>Bucheon High School (부천고등학교) </strong><br/>
+    📅 Mar 2017 – Jan 2019
+  </div>
+  <br clear="left"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kookjd7759"/>
+</div>
 
