@@ -115,19 +115,19 @@
 
 ### 🪪 Certificate  
 - **🚗 1종 보통 운전 면허 (Class 1 Driver’s License)**  
-  <sub>도로교통공단 · 2020.08.07</sub>
+  <sub>도로교통공단 (KoROAD, Korea Road Traffic Authority) · 2020.08.07</sub>
 
 - **💻 컴퓨터 활용능력 1급 (Computer Specialist in Spreadsheet & Database Level -Ⅰ)**  
-  <sub>대한상공회의소 · 2023.08.25</sub>
+  <sub>대한상공회의소 (KCCI, Korea Chamber of Commerce and Industry)· 2023.08.25</sub>
 
-- **📊 데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional)**  
-  <sub>한국데이터산업진흥원 · 2025.09.05</sub>
+- **📊 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional)**  
+  <sub>한국데이터산업진흥원 (K-DATA, Korea Data Agency) · 2025.09.05</sub>
 
-- **💾 SQL 개발자(SQLD : SQL Developer)**  
-  <sub>한국데이터산업진흥원 · 2025.09.19</sub>
+- **💾 SQL 개발자(SQLD, SQL Developer)**  
+  <sub>한국데이터산업진흥원 (K-DATA, Korea Data Agency) · 2025.09.19</sub>
 
 - **🧠 TOPCIT Level 3 (Competent)**  
-  <sub>정보통신기획평가원 · 2025.12.02</sub>
+  <sub>정보통신기획평가원 (IITP, Institute of Information & Communications Technology Planning & Evaluation) · 2025.12.02</sub>
 
 
 
