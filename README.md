@@ -11,10 +11,10 @@
   <img src="https://github.com/user-attachments/assets/d47bd2ee-0e52-4b11-9047-2b4c61c8493f" width="10%"/>
 
   I'm a developer who turns curiosity into code.  
-  I focus on **automation 🤖** and **embedded systems**, learning and growing by building and experimenting hands-on.  
+  I focus on **automation 🤖** and **embedded systems ⚙️**, learning and growing by building and experimenting hands-on.  
 
   호기심을 코드로 구현하는 개발자입니다.  
-  **자동화 🤖**와 **임베디드 시스템**을 중심으로, 직접 만들고 실험하며 성장하고 있습니다.
+  **자동화 🤖**와 **임베디드 시스템 ⚙️**을 중심으로, 직접 만들고 실험하며 성장하고 있습니다.
 
 </div>
 
@@ -42,6 +42,14 @@
 </div>
 
 
+## 🔨 Once I've used 🔨 
+### ⭐⭐⭐ &nbsp; ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=c&logoColor=FFFFFF) ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=flat-square&logo=csharp&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=FFFFFF) 
+
+### ⭐⭐ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=flat-square&logo=Java&logoColor=FFFFFF) ![Ocaml](https://img.shields.io/badge/Ocaml-EC6813.svg?&style=flat-square&logo=ocaml&logoColor=FFFFFF) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=FFFFFF) ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=unity&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=FFFFFF) ![Raspberry_pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=flat-square&logo=raspberrypi&logoColor=FFFFFF) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?&style=flat-square&logo=wireshark&logoColor=FFFFFF)
+
+### ⭐ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=nodedotjs&logoColor=FFFFFF) ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=r&logoColor=FFFFFF) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=FFFFFF)
+
+
 ## 🎓 Education
 
 <div>
@@ -49,8 +57,7 @@
     src="https://i.namu.wiki/i/An5mFROiD7MnRwB0SXP8k-BMeVnpTiWB1Vf2atoI9yco-hHDD-CyTQ0UASL5ktk7sueDdf3OQBNQXfstMPPh3YE9uyjsmELk9rBmIsBHfrVmALG-wnN7kZqyT4nGHJCnx2YoqEcgeLdX0gtBDCIyGA.svg"
     width="120"
     align="left"
-    hspace="20"
-  />
+    hspace="20"/>
   <div>
     <strong>Hyundai AutoEver Mobility SW School, 3rd Cohort (현대오토에버 모빌리티 SW 스쿨 3기) </strong><br/>
     <em>&nbsp;Embedded Software, 6th Cohort (임베디드 SW 6기) </em><br/>
@@ -67,8 +74,7 @@
     src="https://i.namu.wiki/i/WVP4scoTZ0U0PquOZXCl9DUOlgtMX63n237adDUPphBxo7uw1xDWsrSxbXO2C6GSSj5Z719L4ZabFYroNbEZpONmKoLc-czYN4jiJ7E0GumOtsQ8O5Ezcrnk-bM0sH5zYl8M7RtBuxJSV3NSfkjcWQ.svg"
     width="100"
     align="left"
-    hspace="30"
-  />
+    hspace="30"/>
   <div>
     <strong>Kangwon National University, Main Campus (강원대학교, 본교) </strong><br/>
     <em>&nbsp;B.S. in Computer Science and Engineering (컴퓨터 공학과) </em><br/>
@@ -85,26 +91,13 @@
     src="https://i.namu.wiki/i/qP_OLtYrGvs--CXq2HQwMtCzc4H5jgEUnlL6jSrPceRG3TMrFwD8CKkS1xN68r3VfWZUh5gtKdMRYT4viDl7FukCA1MfHkH6uIGN4YGflhLoktXfHuHI2DFqotnQ_lVnsvpA6Z8QXa46viS9t9cU9w.webp"
     width="70"
     align="left"
-    hspace="45"
-  />
+    hspace="45"/>
   <div>
     <strong>Bucheon High School (부천고등학교) </strong><br/>
     📅 Mar 2017 – Jan 2019
   </div>
   <br clear="left"/>
 </div>
-
-
-<br/>
-
-## 🔨 Once I've used 🔨 
-### ⭐⭐⭐ &nbsp; ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=c&logoColor=FFFFFF) ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=flat-square&logo=csharp&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=FFFFFF) 
-
-### ⭐⭐ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=flat-square&logo=Java&logoColor=FFFFFF) ![Ocaml](https://img.shields.io/badge/Ocaml-EC6813.svg?&style=flat-square&logo=ocaml&logoColor=FFFFFF) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=FFFFFF) ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=unity&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=FFFFFF) ![Raspberry_pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=flat-square&logo=raspberrypi&logoColor=FFFFFF) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?&style=flat-square&logo=wireshark&logoColor=FFFFFF)
-
-### ⭐ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=nodedotjs&logoColor=FFFFFF) ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=r&logoColor=FFFFFF) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=FFFFFF)
-
-<br/>
 
 ## 📖 Experience 📖
 ### 🏆 Awards
