@@ -37,7 +37,10 @@
   </tr>
 </table>
 
-![Solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kookjd7759)
+<div align="center">
+  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kookjd7759"/>
+</div>
+
 
 ## 🎓 Education
 
