@@ -115,19 +115,23 @@
 
 ### 🪪 Certificate  
 - **🚗 1종 보통 운전 면허 (Class 1 Driver’s License)**  
-  <sub>도로교통공단 (KoROAD, Korea Road Traffic Authority) · 2020.08.07</sub>
+  <sub>도로교통공단 (KoROAD, Korea Road Traffic Authority) · 2020.08.07</sub>  
 
 - **💻 컴퓨터 활용능력 1급 (Computer Specialist in Spreadsheet & Database Level -Ⅰ)**  
   <sub>대한상공회의소 (KCCI, Korea Chamber of Commerce and Industry)· 2023.08.25</sub>
+  <sub><a href="https://github.com/user-attachments/assets/1a0ee88a-6552-4696-af62-7887502be844">🧷 View Certificate</a></sub>  
 
 - **📊 데이터분석 준전문가 (ADsP, Advanced Data Analytics Semi-Professional)**  
   <sub>한국데이터산업진흥원 (K-DATA, Korea Data Agency) · 2025.09.05</sub>
-
+  <sub><a href="https://github.com/user-attachments/assets/1c3e5bd8-e449-4778-bfaf-7361c8389a8c">🧷 View Certificate</a></sub>
+  
 - **💾 SQL 개발자 (SQLD, SQL Developer)**  
   <sub>한국데이터산업진흥원 (K-DATA, Korea Data Agency) · 2025.09.19</sub>
+  <sub><a href="https://github.com/user-attachments/assets/9d06238a-d532-4696-aa60-b51b6995bf92">🧷 View Certificate</a></sub>  
 
 - **🧠 TOPCIT Level 3 (Competent)**  
   <sub>정보통신기획평가원 (IITP, Institute of Information & Communications Technology Planning & Evaluation) · 2025.12.02</sub>
+  <sub><a href="https://github.com/user-attachments/assets/8e354c4b-8582-4edb-bf6e-9787df5c3e57">🧷 View Certificate</a></sub>  
 
 ### 📜 Papers  
 - **Remote control of terminal devices and IoT services using communication platform**  
