@@ -99,7 +99,8 @@
   <br clear="left"/>
 </div>
 
-## 📖 Experience 📖
+## 📖 Experience 📖  
+
 ### 🏆 Awards
 | 대회명 | 주최 | 수상 결과 | 링크 |
 |--------|------|----------|:------:|
@@ -112,7 +113,24 @@
 | 2024 제5회 뉴스읽기 뉴스일기 공모전 | 한국언론진흥재단 | 금상 🥇 | [보기](https://github.com/user-attachments/assets/98ddc0c5-6342-41b4-9cb5-bc8a040300e0) |
 | HCI 2025 OUTSTANDING PROJECT AWARD | 강원대학교, 최우혁 | 단독 수상 🏅 | [보기](https://github.com/user-attachments/assets/f8c74b8c-e41b-456e-a084-df4b6b6536b3) |
 
-### 🪪 Certificate
+### 🪪 Certificate  
+- **🚗 1종 보통 운전 면허 (Class 1 Driver’s License)**  
+  <sub>도로교통공단 · 2020.08.07</sub>
+
+- **💻 컴퓨터 활용능력 1급 (Computer Specialist in Spreadsheet & Database Level -Ⅰ)**  
+  <sub>대한상공회의소 · 2023.08.25</sub>
+
+- **📊 데이터분석 준전문가(ADsP : Advanced Data Analytics Semi-Professional)**  
+  <sub>한국데이터산업진흥원 · 2025.09.05</sub>
+
+- **💾 SQL 개발자(SQLD : SQL Developer)**  
+  <sub>한국데이터산업진흥원 · 2025.09.19</sub>
+
+- **🧠 TOPCIT Level 3 (Competent)**  
+  <sub>정보통신기획평가원 · 2025.12.02</sub>
+
+
+
 | 자격증명 | 발급기관 | 취득일 | 취득 확인서 |
 |--------|----------|---------|:-------------:|
 | 1종 보통 운전 면허 (Class 1 Driver’s License) | 도로교통공단 | 2020.08.07 | - |
