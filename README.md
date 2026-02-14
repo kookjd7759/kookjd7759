@@ -46,7 +46,7 @@
 ### ⭐ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=nodedotjs&logoColor=FFFFFF) ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=r&logoColor=FFFFFF) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=FFFFFF)
 
 
-## 🎓 Education
+## 🎓 Education 🎓  
 
 <div>
   <img
@@ -120,20 +120,23 @@
 - **💻 컴퓨터 활용능력 1급 (Computer Specialist in Spreadsheet & Database Level -Ⅰ)**  
   <sub>대한상공회의소 (KCCI, Korea Chamber of Commerce and Industry)· 2023.08.25</sub>
 
-- **📊 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional)**  
+- **📊 데이터분석 준전문가 (ADsP, Advanced Data Analytics Semi-Professional)**  
   <sub>한국데이터산업진흥원 (K-DATA, Korea Data Agency) · 2025.09.05</sub>
 
-- **💾 SQL 개발자(SQLD, SQL Developer)**  
+- **💾 SQL 개발자 (SQLD, SQL Developer)**  
   <sub>한국데이터산업진흥원 (K-DATA, Korea Data Agency) · 2025.09.19</sub>
 
 - **🧠 TOPCIT Level 3 (Competent)**  
   <sub>정보통신기획평가원 (IITP, Institute of Information & Communications Technology Planning & Evaluation) · 2025.12.02</sub>
 
-### 📜 Papers
-| 저자 | 연도 | 논문 제목 | 학술대회/저널 | 권(호), 페이지 | 링크 |
-|------|------|-----------|---------------|---------------|:------:|
-| 국동균, 한성수 | 2022 | 커뮤니케이션 플랫폼을 활용한 단말 기기 원격 제어 및 IoT 서비스 | 한국정보처리학회 학술대회논문집 | 29(2), pp.110–112 | [보기](https://kiss.kstudy.com/Detail/Ar?key=3988321) |
-| 국동균, 한성수 | 2023 | 태양열 에너지 발전을 통한 가상화폐 채굴 | 한국정보처리학회 학술대회논문집 | 30(1), pp.76–77 | [보기](https://kiss.kstudy.com/Detail/Ar?key=4028267) |
+### 📜 Papers  
+- **Remote control of terminal devices and IoT services using communication platform**  
+  <sub>국동균, 한성수. (2022). 커뮤니케이션 플랫폼을 활용한 단말 기기 원격 제어 및 IoT 서비스. 한국정보처리학회 학술대회논문집, 29(2), 110-112.</sub>  
+  <sub><a href="https://kiss.kstudy.com/Detail/Ar?key=3988321">🌐 View Paper</a></sub>  
+
+- **Virtual currency mining through solar energy generation**  
+  <sub>국동균, 한성수. (2023). 태양열 에너지 발전을 통한 가상화폐 채굴. 한국정보처리학회 학술대회논문집, 30(1), 76-77.  </sub>  
+  <sub><a href="https://kiss.kstudy.com/Detail/Ar?key=4028267">🌐 View Paper</a></sub>  
 
 <br/>
 
