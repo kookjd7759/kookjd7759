@@ -37,10 +37,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kookjd7759"/>
-</div>
-
 
 ## 🔨 Once I've used 🔨 
 ### ⭐⭐⭐ &nbsp; ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=c&logoColor=FFFFFF) ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=flat-square&logo=csharp&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=FFFFFF) 
@@ -97,6 +93,10 @@
     📅 Mar 2017 – Jan 2019
   </div>
   <br clear="left"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kookjd7759"/>
 </div>
 
 ## 📖 Experience 📖  
