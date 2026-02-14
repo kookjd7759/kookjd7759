@@ -7,9 +7,9 @@
   </a>
 </p>
 
-
 <div align="center">
-  
+  <img src="https://github.com/user-attachments/assets/d47bd2ee-0e52-4b11-9047-2b4c61c8493f" width="10%"/>
+
   I'm a developer who turns curiosity into code.  
   I focus on **automation 🤖** and **embedded systems**, learning and growing by building and experimenting hands-on.  
 
