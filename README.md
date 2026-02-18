@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://github-profile-trophy-tawny.vercel.app/?username=kookjd7759&theme=flat&column=7&margin-w=10&margin-h=10&title=-Reviews,-Issues" />
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=kookjd7759&theme=flat&column=7&margin-w=10&title=-Reviews,-Issues" />
   </a>
 </p>
 
