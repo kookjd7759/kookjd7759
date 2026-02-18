@@ -46,9 +46,7 @@
 
 ## 📖 Experience 📖  
 
-<p align="center">
-    <img src="https://github-profile-trophy-tawny.vercel.app/?username=kookjd7759&theme=flat&column=7&margin-w=10&title=-Reviews,-Issues,-PullRequest" />
-</p>
+<p align="center"> <img src="https://github-profile-trophy-tawny.vercel.app/?username=kookjd7759&theme=flat&column=6&margin-w=10&title=-Reviews,-Issues,-PullRequest" /> </p>
 
 <div align="center">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=kookjd7759" width="29%"/>
