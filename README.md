@@ -44,13 +44,14 @@
 
 ### ⭐ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=nodedotjs&logoColor=FFFFFF) ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=r&logoColor=FFFFFF) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=FFFFFF)
 
+## 📖 Experience 📖  
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://github-profile-trophy-tawny.vercel.app/?username=kookjd7759&theme=flat&column=7&margin-w=10&margin-h=10&title=-Reviews,-Issues" />
   </a>
 </p>
 
-## 📖 Experience 📖  
 ### 🏆 Awards  
 - **<🥉 장려상(Encouragement Award)> - 2020학년도 강원대학교 핵심역량진단 수기 공모전**
   <sub> 강원대학교 · 2021.02.15</sub>
