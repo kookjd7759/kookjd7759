@@ -54,7 +54,7 @@
 
 <div align="center">
   <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kookjd7759"
-    width="50%"/>
+    width="70%"/>
 </div>
 
 ### 🏆 Awards  
