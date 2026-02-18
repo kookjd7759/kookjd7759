@@ -53,8 +53,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kookjd7759"
-    width="60%"/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=kookjd7759" width="25%"/>
+  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kookjd7759" width="57%"/>
 </div>
 
 ### 🏆 Awards  
