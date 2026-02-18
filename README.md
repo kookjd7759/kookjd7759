@@ -52,6 +52,11 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kookjd7759"
+    width="50%"/>
+</div>
+
 ### 🏆 Awards  
 - **<🥉 장려상(Encouragement Award)> - 2020학년도 강원대학교 핵심역량진단 수기 공모전**
   <sub> 강원대학교 · 2021.02.15</sub>
@@ -165,9 +170,5 @@
     📅 Mar 2017 – Jan 2019
   </div>
   <br clear="left"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kookjd7759"/>
 </div>
 
