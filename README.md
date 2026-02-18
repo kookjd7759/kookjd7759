@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=1&text=Dong-gyun%20Kook&reversal=true&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlign=67&fontAlignY=30&desc=💻%20🇰🇷&descSize=40&descAlignY=20&descAlign=8&stroke=FFFFFF&strokeWidth=2)
 ---  
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!" />
@@ -44,6 +43,12 @@
 ### ⭐⭐ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=flat-square&logo=Java&logoColor=FFFFFF) ![Ocaml](https://img.shields.io/badge/Ocaml-EC6813.svg?&style=flat-square&logo=ocaml&logoColor=FFFFFF) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=FFFFFF) ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=unity&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=FFFFFF) ![Raspberry_pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=flat-square&logo=raspberrypi&logoColor=FFFFFF) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?&style=flat-square&logo=wireshark&logoColor=FFFFFF)
 
 ### ⭐ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=nodedotjs&logoColor=FFFFFF) ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=r&logoColor=FFFFFF) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=FFFFFF)
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=kookjd7759&theme=flat&column=7&margin-w=10&margin-h=10&title=-Reviews,-Issues" />
+  </a>
+</p>
 
 ## 📖 Experience 📖  
 ### 🏆 Awards  
