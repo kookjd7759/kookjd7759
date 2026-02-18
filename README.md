@@ -49,8 +49,9 @@
 <p align="center"> <img src="https://github-profile-trophy-tawny.vercel.app/?username=kookjd7759&theme=flat&column=6&margin-w=10&title=-Reviews,-Issues,-PullRequest" /> </p>
 
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=kookjd7759" width="29%"/>
-  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kookjd7759" width="66%"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kookjd7759" width="30%"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=kookjd7759&theme=warm" width="30%"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/1cdb6e54-11e8-42e3-b7c9-f39e52bf6970" width="10%"/>
 </div>
 
 ### 🏆 Awards  
