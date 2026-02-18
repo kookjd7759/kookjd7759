@@ -54,35 +54,43 @@
 </div>
 
 ### 🏆 Awards  
-- **<🥉 장려상(Encouragement Award)> - 2020학년도 강원대학교 핵심역량진단 수기 공모전**
+- **2020학년도 강원대학교 핵심역량진단 수기 공모전**  
+  **🥉 장려상(Encouragement Award)**
   <sub> 강원대학교 · 2021.02.15</sub>
   <sub><a href="https://github.com/user-attachments/assets/66f83c4b-3d04-495f-82c7-c510f67310ce">🖼️ View Evidence</a></sub>  
 
-- **<🥉 장려상(Encouragement Award)> - 2021년도 SW학습/활동 수기 공모전**
+- **2021년도 SW학습/활동 수기 공모전**  
+  **🥉 장려상(Encouragement Award)**
   <sub> 강원대학교 · 2021.09.01</sub>
   <sub><a href="https://github.com/user-attachments/assets/f2b057b7-6070-4b25-933c-bd0b76b389d7">🖼️ View Evidence</a></sub>  
 
-- **<🥉 장려상(Encouragement Award)> - 2021 공공데이터 활용 문제해결 해커톤**
+- **2021 공공데이터 활용 문제해결 해커톤**  
+  **🥉 장려상(Encouragement Award)**
   <sub> 과학기술정보통신부 & 정보통신산업진흥원 · 2021.11.07</sub>
   <sub><a href="https://github.com/user-attachments/assets/89a15c58-e49d-4ef0-a14d-0e153e295c08">🖼️ View Evidence</a></sub>  
 
-- **<🥉 장려상(Encouragement Award)> - 2022년 동북권 공공데이터 활용 챌린지**
+- **2022년 동북권 공공데이터 활용 챌린지**  
+  **🥉 장려상(Encouragement Award)**
   <sub> 과학기술정보통신부 & 정보통신산업진흥원 · 2022.10.05</sub>
   <sub><a href="https://github.com/user-attachments/assets/0176e22d-38e1-4806-af5e-626a16c9c104">🖼️ View Evidence</a></sub>  
 
-- **<🥉 장려상(Encouragement Award)> - ACK 2022 학부생 논문경진대회**
+- **ACK 2022 학부생 논문경진대회**  
+  **🥉 장려상(Encouragement Award)**
   <sub> 한국정보처리학회 · 2022.11.04</sub>
   <sub><a href="https://github.com/user-attachments/assets/d411ebd8-acb7-4b69-813c-25aa827dc5d6">🖼️ View Evidence</a></sub>  
 
-- **<🥈 은상(Silver Award)> - ACK 2023 학부생 논문경진대회**
+- **ACK 2023 학부생 논문경진대회**  
+  **🥈 은상(Silver Award)**
   <sub> 한국정보처리학회 · 2023.05.19</sub>
   <sub><a href="https://github.com/user-attachments/assets/723bdde1-d4e3-47b0-86f7-b846506d5bf5">🖼️ View Evidence</a></sub>  
 
-- **<🥇 금상(Gold Award)> - 제5회 뉴스읽기 뉴스일기 공모전**
+- **제5회 뉴스읽기 뉴스일기 공모전**  
+  **🥇 금상(Gold Award)**
   <sub> 한국언론진흥재단 · 2024.11.16</sub>
   <sub><a href="https://github.com/user-attachments/assets/98ddc0c5-6342-41b4-9cb5-bc8a040300e0">🖼️ View Evidence</a></sub>  
 
-- **<🏅 단독 수상(Sole Award Recipient)> - HCI 2025 OUTSTANDING PROJECT AWARD**
+- **HCI 2025 OUTSTANDING PROJECT AWARD**  
+  **🏅 단독 수상(Sole Award Recipient)**
   <sub> 강원대학교, 최우혁 · 2025.06.19</sub>
   <sub><a href="https://github.com/user-attachments/assets/f8c74b8c-e41b-456e-a084-df4b6b6536b3">🖼️ View Evidence</a></sub>  
 
