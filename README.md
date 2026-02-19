@@ -49,7 +49,7 @@
 <p align="center"> <img src="https://github-profile-trophy-tawny.vercel.app/?username=kookjd7759&theme=flat&column=6&margin-w=10&title=-Reviews,-Issues,-PullRequest" /> </p>
 
 <div align="center">
-  <img src="https://solvedac-readme-stats.vercel.app/api?handle=kookjd7759" width="80%"/>
+  <img src="https://solvedac-readme-stats.vercel.app/api?handle=kookjd7759" width="70%"/>
 </div>
 
 ### 🏆 Awards  
