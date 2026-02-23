@@ -23,7 +23,7 @@
   <tr>
     <td align="center" valign="middle" width="50%">
       <img
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=kookjd7759&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600&v=1"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=kookjd7759&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1000&v=1"
         alt="stats"
       />
     </td>
