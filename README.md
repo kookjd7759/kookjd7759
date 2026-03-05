@@ -174,18 +174,3 @@
   </div>
   <br clear="left"/>
 </div>
-
-
----
-
-## 🚀 Related & Deployed Projects
-
-<table>
-  <tr>
-    <td align="center" width="60%">
-      <b>📊 solvedac-readme-stats</b><br/>
-      Dynamic solved.ac SVG card generator for GitHub README<br/><br/>
-      🔗 <a href="https://github.com/kookjd7759/solvedac-readme-stats">GitHub Repository</a><br/>
-    </td>
-  </tr>
-</table>
