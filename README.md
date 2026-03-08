@@ -130,7 +130,7 @@
 
 <div>
   <img
-    src="https://i.namu.wiki/i/2qIUz7F5QHjrgQAnDWkImlqD7cXjMpjWNEfVm8QXsESVl9UjVX4A72cTaqaqh_VuA_vD0cECe9l_alyQPxmelQ9jbmZQ1RBLcf7misVcHd3pka1jZkQAxnKFqcdRYNl41M5eBFEbgfwsBu31DGKu-w.svg"
+    src="https://github.com/user-attachments/assets/38667ebf-0e6a-402c-999d-ee3862cbfa2c"
     width="120"
     align="left"
     hspace="20"/>
@@ -147,7 +147,7 @@
 
 <div>
   <img
-    src="https://i.namu.wiki/i/WVP4scoTZ0U0PquOZXCl9DUOlgtMX63n237adDUPphBxo7uw1xDWsrSxbXO2C6GSSj5Z719L4ZabFYroNbEZpONmKoLc-czYN4jiJ7E0GumOtsQ8O5Ezcrnk-bM0sH5zYl8M7RtBuxJSV3NSfkjcWQ.svg"
+    src="https://github.com/user-attachments/assets/d9c9f9ff-a2d3-4957-a2b1-26c3b81144fb"
     width="100"
     align="left"
     hspace="30"/>
@@ -164,7 +164,7 @@
 
 <div>
   <img
-    src="https://i.namu.wiki/i/qP_OLtYrGvs--CXq2HQwMtCzc4H5jgEUnlL6jSrPceRG3TMrFwD8CKkS1xN68r3VfWZUh5gtKdMRYT4viDl7FukCA1MfHkH6uIGN4YGflhLoktXfHuHI2DFqotnQ_lVnsvpA6Z8QXa46viS9t9cU9w.webp"
+    src="https://github.com/user-attachments/assets/c8933d2c-0964-4aa2-a326-6b0d0845b6f1"
     width="70"
     align="left"
     hspace="45"/>
