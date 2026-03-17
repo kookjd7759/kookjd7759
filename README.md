@@ -97,7 +97,7 @@
 - **🚗 1종 보통 운전 면허 (Class 1 Driver’s License)**  
   <sub>도로교통공단 (KoROAD, Korea Road Traffic Authority) · 2020.08.07</sub>  
 
-- **💻 컴퓨터 활용능력 1급 (Computer Specialist in Spreadsheet & Database Level -Ⅰ)**  
+- **💻 컴퓨터 활용능력 1급 (Computer Specialist in Spreadsheet & Database Level - 1)**  
   <sub>대한상공회의소 (KCCI, Korea Chamber of Commerce and Industry)· 2023.08.25</sub>
   <sub><a href="https://github.com/user-attachments/assets/1a0ee88a-6552-4696-af62-7887502be844">🧷 View Certificate</a></sub>  
 
@@ -111,7 +111,11 @@
 
 - **🧠 TOPCIT Level 3 (Competent)**  
   <sub>정보통신기획평가원 (IITP, Institute of Information & Communications Technology Planning & Evaluation) · 2025.12.02</sub>
-  <sub><a href="https://github.com/user-attachments/assets/8e354c4b-8582-4edb-bf6e-9787df5c3e57">🧷 View Certificate</a></sub>  
+  <sub><a href="https://github.com/user-attachments/assets/8e354c4b-8582-4edb-bf6e-9787df5c3e57">🧷 View Certificate</a></sub>
+  
+- **🖧 네트워크 관리사 2 (Network Advisor Level - 2)**  
+  <sub>한국정보통신자격협회 (ICQA, Information and Communications Qualifications Association) · 2026.03.17</sub>
+  <sub><a href="https://github.com/user-attachments/assets/f760f8d1-20c3-4bbd-bb5e-dea3f3feec87">🧷 View Certificate</a></sub>  
 
 ### 📜 Papers  
 - **Remote control of terminal devices and IoT services using communication platform**  
