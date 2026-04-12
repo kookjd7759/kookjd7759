@@ -62,8 +62,7 @@
 <a href="https://mail.naver.com/write/ext?srvid=note&to=kookjd7759@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-F3F3F3?style=flat-square&logo=naver&logoColor=03C75A" /></a>
 <a href="https://open.kakao.com/o/sRXuG1pi"><img src="https://img.shields.io/badge/KakaoTalk-F3F3F3?style=flat-square&logo=kakaotalk&logoColor=3C1E1E" /></a>
 
-
-</div>
+## DEVELOPER PROFILE
 
 <table align="center">
   <tr>
@@ -82,9 +81,7 @@
   </tr>
 </table>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kookjd7759&bg_color=ffffff&color=000000&line=2ea043&area_color=2ea043&point=2ea043&area=true&hide_border=true)
-
-## 📖 Experience 📖  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kookjd7759&bg_color=ffffff&color=000000&line=2ea043&area_color=2ea043&point=2ea043&area=true&hide_border=true&custom_title=Contribution%20Graph)
 
 <p align="center"> <img src="https://github-profile-trophy-tawny.vercel.app/?username=kookjd7759&theme=flat&column=6&margin-w=10&title=-Reviews,-Issues,-PullRequest,-Repositories" /> </p>
 
@@ -92,6 +89,9 @@
   <img src="https://solvedac-readme-stats.vercel.app/api?handle=kookjd7759" width="80%"/>
 </div>
 
+</div>
+
+## Experience  
 ### 🏆 Awards  
 - **2020학년도 강원대학교 핵심역량진단 수기 공모전**  
   **🥉 장려상(Encouragement Award)**
