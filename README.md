@@ -93,11 +93,11 @@
 
 <table align="center" width="100%" border="1">
   <tr>
-    <td align="center" valign="top" width="40%">
+    <td align="center" valign="top" width="25%">
       <h4>GitHub Trophies</h4>
-      <img src="https://github-profile-trophy-tawny.vercel.app/?username=kookjd7759&theme=flat&column=3&margin-w=10&margin-h=10&title=-Reviews,-Issues,-PullRequest,-Repositories" />
+      <img src="https://github-profile-trophy-tawny.vercel.app/?username=kookjd7759&theme=flat&column=2&margin-w=10&margin-h=10&title=-Reviews,-Issues,-PullRequest,-Repositories" />
     </td>
-    <td align="center" valign="top" width="60%">
+    <td align="center" valign="top" width="75%">
       <h4>Solved.ac Profile</h4>
       <img src="https://solvedac-readme-stats.vercel.app/api?handle=kookjd7759"/>
     </td>
