@@ -70,13 +70,13 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="middle" width="55%">
       <img
         src="https://github-readme-stats-eight-theta.vercel.app/api?username=kookjd7759&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1000&v=1"
         alt="stats"
       />
     </td>
-    <td align="center" valign="middle" width="50%">
+    <td align="center" valign="middle" width="45%">
       <img
         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kookjd7759&layout=compact&langs_count=8&hide_border=true&cache_seconds=1000&v=1"
         alt="Top Langs"
