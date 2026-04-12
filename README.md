@@ -12,7 +12,7 @@
   I'm a developer who turns curiosity into code.  
   I focus on **automation 🤖** and **embedded systems ⚙️**, learning and growing by building and experimenting hands-on.  
 
-  호기심을 코드로 구현하는 개발자입니다.  
+  저는 호기심을 코드로 구현하는 개발자입니다.  
   **자동화 🤖** 와 **임베디드 시스템 ⚙️**을 중심으로, 직접 만들고 실험하며 성장하고 있습니다.
 
 </div>
