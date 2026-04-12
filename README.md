@@ -64,7 +64,7 @@
 
 ## DEVELOPER PROFILE
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" valign="middle" width="50%">
       <img
@@ -82,7 +82,7 @@
 </table>
 
 
-<table align="center" border="1">
+<table align="center" border="1" width="100%">
   <tr>
     <td>
       <img
@@ -92,7 +92,7 @@
 </table>
 
 
-<table align="center" border="1">
+<table align="center" border="1" width="100%">
   <tr>
     <td>
       <img src="https://github-profile-trophy-tawny.vercel.app/?username=kookjd7759&theme=flat&column=6&margin-w=10&title=-Reviews,-Issues,-PullRequest,-Repositories" />
@@ -101,7 +101,7 @@
 </table>
 
 
-<table align="center" border="1">
+<table align="center" border="1" width="100%">
   <tr>
     <td>
       <img src="https://solvedac-readme-stats.vercel.app/api?handle=kookjd7759"/>
