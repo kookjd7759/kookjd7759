@@ -26,15 +26,19 @@
 <a href="https://mail.naver.com/write/ext?srvid=note&to=kookjd7759@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-F3F3F3?style=flat-square&logo=naver&logoColor=03C75A" /></a>
 <a href="https://open.kakao.com/o/sRXuG1pi"><img src="https://img.shields.io/badge/KakaoTalk-F3F3F3?style=flat-square&logo=kakaotalk&logoColor=3C1E1E" /></a>
 
-
 ## TECH STACK
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=c&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=cplusplus&logoColor=FFFFFF)
 ![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=flat-square&logo=csharp&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-FF160B.svg?style=flat-square&logo=openjdk&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=flat-square&logo=Java&logoColor=FFFFFF)
+![Ocaml](https://img.shields.io/badge/Ocaml-EC6813.svg?&style=flat-square&logo=ocaml&logoColor=FFFFFF)
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=r&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=FFFFFF)
 
 ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-0E5AA7?style=flat-square)
 ![CAN](https://img.shields.io/badge/CAN-00599C?style=flat-square)
@@ -45,12 +49,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat-square&logo=raspberrypi&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=000000)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=FFFFFF)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=FFFFFF)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=unity&logoColor=FFFFFF)
 
