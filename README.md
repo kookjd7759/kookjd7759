@@ -17,6 +17,18 @@
 
 </div>
 
+<div align="center">
+
+## CONTACT ME
+
+<p align="center">
+  <a href="https://www.instagram.com/donggyun_7759"><img src="https://img.shields.io/badge/Instagram-F5F5F5?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
+  <a href="mailto:kookjdjdjd@gmail.com"><img src="https://img.shields.io/badge/Google%20mail-F5F5F5?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+  <a href="mailto:kookjd7759@naver.com"><img src="https://img.shields.io/badge/Naver%20mail-F5F5F5?style=flat-square&logo=naver&logoColor=03C75A" /></a>
+</p>
+
+</div>
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kookjd7759&bg_color=ffffff&color=000000&line=2ea043&area_color=2ea043&point=2ea043&area=true&hide_border=true)
 
 <table>
