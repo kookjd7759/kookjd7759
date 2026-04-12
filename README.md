@@ -19,13 +19,6 @@
 
 <div align="center">
 
-## CONTACT ME
-
-<a href="https://www.instagram.com/donggyun_7759"><img src="https://img.shields.io/badge/Instagram-F3F3F3?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kookjdjdjd@gmail.com&su=GitHub%20Contact"><img src="https://img.shields.io/badge/Gmail-F3F3F3?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://mail.naver.com/write/ext?srvid=note&to=kookjd7759@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-F3F3F3?style=flat-square&logo=naver&logoColor=03C75A" /></a>
-<a href="https://open.kakao.com/o/sRXuG1pi"><img src="https://img.shields.io/badge/KakaoTalk-F3F3F3?style=flat-square&logo=kakaotalk&logoColor=3C1E1E" /></a>
-
 ## TECH STACK
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=c&logoColor=FFFFFF)
@@ -39,6 +32,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=FFFFFF)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Keil MDK](https://img.shields.io/badge/Keil%20MDK-394049?style=flat-square&logo=arm&logoColor=white)
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![AURIX Dev Studio](https://img.shields.io/badge/AURIX%20Dev%20Studio-005B95?style=flat-square&logo=infineon&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat-square&logo=wireshark&logoColor=FFFFFF)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
 ![AUTOSAR](https://img.shields.io/badge/AUTOSAR-0E5AA7?style=flat-square)
 ![CAN](https://img.shields.io/badge/CAN-00599C?style=flat-square)
@@ -54,13 +55,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=FFFFFF)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=unity&logoColor=FFFFFF)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Keil MDK](https://img.shields.io/badge/Keil%20MDK-394049?style=flat-square&logo=arm&logoColor=white)
-![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![AURIX Dev Studio](https://img.shields.io/badge/AURIX%20Dev%20Studio-005B95?style=flat-square&logo=infineon&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat-square&logo=wireshark&logoColor=FFFFFF)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+## CONTACT ME
+
+<a href="https://www.instagram.com/donggyun_7759"><img src="https://img.shields.io/badge/Instagram-F3F3F3?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kookjdjdjd@gmail.com&su=GitHub%20Contact"><img src="https://img.shields.io/badge/Gmail-F3F3F3?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://mail.naver.com/write/ext?srvid=note&to=kookjd7759@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-F3F3F3?style=flat-square&logo=naver&logoColor=03C75A" /></a>
+<a href="https://open.kakao.com/o/sRXuG1pi"><img src="https://img.shields.io/badge/KakaoTalk-F3F3F3?style=flat-square&logo=kakaotalk&logoColor=3C1E1E" /></a>
 
 
 </div>
