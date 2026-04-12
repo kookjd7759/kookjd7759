@@ -57,12 +57,14 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=FFFFFF)
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=unity&logoColor=FFFFFF)
 
-## CONTACT ME
+## CONTACT ME  
 
-<a href="https://www.instagram.com/donggyun_7759"><img src="https://img.shields.io/badge/Instagram-F3F3F3?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kookjdjdjd@gmail.com&su=GitHub%20Contact"><img src="https://img.shields.io/badge/Gmail-F3F3F3?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://mail.naver.com/write/ext?srvid=note&to=kookjd7759@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-F3F3F3?style=flat-square&logo=naver&logoColor=03C75A" /></a>
-<a href="https://open.kakao.com/o/sRXuG1pi"><img src="https://img.shields.io/badge/KakaoTalk-F3F3F3?style=flat-square&logo=kakaotalk&logoColor=3C1E1E" /></a>
+<p align="center">
+  <a href="https://www.instagram.com/donggyun_7759"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kookjdjdjd@gmail.com&su=GitHub%20Contact"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://mail.naver.com/write/ext?srvid=note&to=kookjd7759@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Mail" /></a>
+  <a href="https://open.kakao.com/o/sRXuG1pi"><img src="https://img.shields.io/badge/KakaoTalk-FEE500?style=for-the-badge&logo=kakaotalk&logoColor=3C1E1E" alt="KakaoTalk" /></a>
+</p>
 
 ## DEVELOPER PROFILE
 
