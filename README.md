@@ -81,7 +81,16 @@
   </tr>
 </table>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kookjd7759&bg_color=ffffff&color=000000&line=2ea043&area_color=2ea043&point=2ea043&area=true&hide_border=true&custom_title=Contribution%20Graph)
+
+<table align="center" border="1">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=kookjd7759&bg_color=ffffff&color=000000&line=2ea043&area_color=2ea043&point=2ea043&area=true&custom_title=Contribution%20Graph"/>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center"> <img src="https://github-profile-trophy-tawny.vercel.app/?username=kookjd7759&theme=flat&column=6&margin-w=10&title=-Reviews,-Issues,-PullRequest,-Repositories" /> </p>
 
