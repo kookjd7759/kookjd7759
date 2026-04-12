@@ -65,8 +65,6 @@
 
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kookjd7759&bg_color=ffffff&color=000000&line=2ea043&area_color=2ea043&point=2ea043&area=true&hide_border=true)
-
 <table align="center">
   <tr>
     <td align="center" valign="middle" width="50%">
@@ -83,6 +81,8 @@
     </td>
   </tr>
 </table>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kookjd7759&bg_color=ffffff&color=000000&line=2ea043&area_color=2ea043&point=2ea043&area=true&hide_border=true)
 
 ## 📖 Experience 📖  
 
