@@ -107,7 +107,7 @@
 </div>
 
 ## Experience  
-### 🏆 Awards  
+### 🏆 Awards (8)  
 - **2020학년도 강원대학교 핵심역량진단 수기 공모전**  
   **🥉 장려상(Encouragement Award)**
   <sub> 강원대학교 · 2021.02.15</sub>
@@ -148,7 +148,7 @@
   <sub> 강원대학교, 최우혁 · 2025.06.19</sub>
   <sub><a href="https://github.com/user-attachments/assets/f8c74b8c-e41b-456e-a084-df4b6b6536b3">🖼️ View Evidence</a></sub>  
 
-### 🪪 Certificate  
+### 🪪 Certificate (6)  
 - **🚗 1종 보통 운전 면허 (Class 1 Driver’s License)**  
   <sub>도로교통공단 (KoROAD, Korea Road Traffic Authority) · 2020.08.07</sub>  
 
@@ -172,7 +172,7 @@
   <sub>한국정보통신자격협회 (ICQA, Information and Communications Qualifications Association) · 2026.03.17</sub>
   <sub><a href="https://github.com/user-attachments/assets/f760f8d1-20c3-4bbd-bb5e-dea3f3feec87">🧷 View Certificate</a></sub>  
 
-### 📜 Papers  
+### 📜 Papers (2)  
 - **Remote control of terminal devices and IoT services using communication platform**  
   <sub>국동균, 한성수. (2022). 커뮤니케이션 플랫폼을 활용한 단말 기기 원격 제어 및 IoT 서비스. 한국정보처리학회 학술대회논문집, 29(2), 110-112.</sub>  
   <sub><a href="https://kiss.kstudy.com/Detail/Ar?key=3988321">🌐 View Paper</a></sub>  
