@@ -21,11 +21,9 @@
 
 ## CONTACT ME
 
-<p align="center">
-  <a href="https://www.instagram.com/donggyun_7759"><img src="https://img.shields.io/badge/Instagram-F5F5F5?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
-  <a href="mailto:kookjdjdjd@gmail.com"><img src="https://img.shields.io/badge/Google%20mail-F5F5F5?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-  <a href="mailto:kookjd7759@naver.com"><img src="https://img.shields.io/badge/Naver%20mail-F5F5F5?style=flat-square&logo=naver&logoColor=03C75A" /></a>
-</p>
+<a href="https://www.instagram.com/donggyun_7759"><img src="https://img.shields.io/badge/Instagram-F3F3F3?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
+<a href="mailto:kookjdjdjd@gmail.com"><img src="https://img.shields.io/badge/Google%20mail-F3F3F3?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+<a href="mailto:kookjd7759@naver.com"><img src="https://img.shields.io/badge/Naver%20mail-F3F3F3?style=flat-square&logo=naver&logoColor=03C75A" /></a>
 
 </div>
 
