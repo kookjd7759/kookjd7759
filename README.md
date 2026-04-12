@@ -22,8 +22,9 @@
 ## CONTACT ME
 
 <a href="https://www.instagram.com/donggyun_7759"><img src="https://img.shields.io/badge/Instagram-F3F3F3?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kookjdjdjd@gmail.com&su=GitHub%20Contact"><img src="https://img.shields.io/badge/Google%20mail-F3F3F3?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-<a href="mailto:kookjd7759@naver.com"><img src="https://img.shields.io/badge/Naver%20mail-F3F3F3?style=flat-square&logo=naver&logoColor=03C75A" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kookjdjdjd@gmail.com&su=GitHub%20Contact"><img src="https://img.shields.io/badge/Gmail-F3F3F3?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://mail.naver.com/write/ext?srvid=note&to=kookjd7759@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-F3F3F3?style=flat-square&logo=naver&logoColor=03C75A" /></a>
+<a href="https://open.kakao.com/o/sRXuG1pi"><img src="https://img.shields.io/badge/KakaoTalk-F3F3F3?style=flat-square&logo=kakaotalk&logoColor=3C1E1E" /></a>
 
 </div>
 
