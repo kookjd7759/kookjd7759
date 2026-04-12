@@ -26,6 +26,43 @@
 <a href="https://mail.naver.com/write/ext?srvid=note&to=kookjd7759@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-F3F3F3?style=flat-square&logo=naver&logoColor=03C75A" /></a>
 <a href="https://open.kakao.com/o/sRXuG1pi"><img src="https://img.shields.io/badge/KakaoTalk-F3F3F3?style=flat-square&logo=kakaotalk&logoColor=3C1E1E" /></a>
 
+
+## TECH STACK
+
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=c&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=cplusplus&logoColor=FFFFFF)
+![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=flat-square&logo=csharp&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-FF160B.svg?style=flat-square&logo=openjdk&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+![AUTOSAR](https://img.shields.io/badge/AUTOSAR-0E5AA7?style=flat-square)
+![CAN](https://img.shields.io/badge/CAN-00599C?style=flat-square)
+![UART](https://img.shields.io/badge/UART-6C757D?style=flat-square)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=flat-square)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![AURIX](https://img.shields.io/badge/AURIX-005B95?style=flat-square&logo=infineon&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=flat-square&logo=raspberrypi&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=000000)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=FFFFFF)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=FFFFFF)
+![Unity](https://img.shields.io/badge/Unity-000000.svg?style=flat-square&logo=unity&logoColor=FFFFFF)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Keil MDK](https://img.shields.io/badge/Keil%20MDK-394049?style=flat-square&logo=arm&logoColor=white)
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![AURIX Dev Studio](https://img.shields.io/badge/AURIX%20Dev%20Studio-005B95?style=flat-square&logo=infineon&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat-square&logo=wireshark&logoColor=FFFFFF)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+
+
 </div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kookjd7759&bg_color=ffffff&color=000000&line=2ea043&area_color=2ea043&point=2ea043&area=true&hide_border=true)
@@ -46,14 +83,6 @@
     </td>
   </tr>
 </table>
-
-
-## 🔨 Once I've used 🔨 
-### ⭐⭐⭐ &nbsp; ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=c&logoColor=FFFFFF) ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=cplusplus&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=flat-square&logo=csharp&logoColor=FFFFFF) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=FFFFFF) 
-
-### ⭐⭐ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=flat-square&logo=Java&logoColor=FFFFFF) ![Ocaml](https://img.shields.io/badge/Ocaml-EC6813.svg?&style=flat-square&logo=ocaml&logoColor=FFFFFF) ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=FFFFFF) ![Unity](https://img.shields.io/badge/Unity-000000.svg?&style=flat-square&logo=unity&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=FFFFFF) ![Raspberry_pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?&style=flat-square&logo=raspberrypi&logoColor=FFFFFF) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?&style=flat-square&logo=wireshark&logoColor=FFFFFF)
-
-### ⭐ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=nodedotjs&logoColor=FFFFFF) ![R](https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=r&logoColor=FFFFFF) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=FFFFFF) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=FFFFFF)
 
 ## 📖 Experience 📖  
 
