@@ -67,15 +67,15 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kookjd7759&bg_color=ffffff&color=000000&line=2ea043&area_color=2ea043&point=2ea043&area=true&hide_border=true)
 
-<table width="80%" align="center">
+<table align="center">
   <tr>
-    <td align="center" valign="middle" width="40%">
+    <td align="center" valign="middle" width="50%">
       <img
         src="https://github-readme-stats-eight-theta.vercel.app/api?username=kookjd7759&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1000&v=1"
         alt="stats"
       />
     </td>
-    <td align="center" valign="middle" width="40%">
+    <td align="center" valign="middle" width="50%">
       <img
         src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kookjd7759&layout=compact&langs_count=8&hide_border=true&cache_seconds=1000&v=1"
         alt="Top Langs"
