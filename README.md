@@ -195,7 +195,7 @@
   <tr>
     <td width="150" align="center" valign="middle">
       <img
-        src="https://github.com/user-attachments/assets/38667ebf-0e6a-402c-999d-ee3862cbfa2c"
+        src="https://github.com/user-attachments/assets/8f3e76e6-578f-4611-930e-6addff3babc1"
         width="92"
         alt="Hyundai AutoEver Mobility SW School"
       />
