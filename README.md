@@ -191,50 +191,62 @@
 
 ## 🎓 Education 🎓  
 
-<div>
-  <img
-    src="https://github.com/user-attachments/assets/38667ebf-0e6a-402c-999d-ee3862cbfa2c"
-    width="120"
-    align="left"
-    hspace="20"/>
-  <div>
-    <strong>Hyundai AutoEver Mobility SW School, 3rd Cohort (현대오토에버 모빌리티 SW 스쿨 3기) </strong><br/>
-    <em>&nbsp;Embedded Software, 6th Cohort (임베디드 SW 6기) 
-    <a href="https://github.com/kookjd7759/Hyundai-AutoEver-Mobility-SW-School-3rd-Cohort"> 🔗 View Details </a> </em><br/>
-    📅 Dec 2025 – Jun 2026 (Expected)
-  </div>
-  
-  <br clear="left"/>
-</div>
+## 🎓 Education
+
+<table width="860" align="left">
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <img
+        src="https://github.com/user-attachments/assets/38667ebf-0e6a-402c-999d-ee3862cbfa2c"
+        width="92"
+        alt="Hyundai AutoEver Mobility SW School"
+      />
+    </td>
+    <td width="700" valign="top">
+      <strong>Hyundai AutoEver Mobility SW School, 3rd Cohort (현대오토에버 모빌리티 SW 스쿨 3기)</strong><br/>
+      <em>
+        Embedded Software, 6th Cohort (임베디드 SW 6기)
+        <a href="https://github.com/kookjd7759/Hyundai-AutoEver-Mobility-SW-School-3rd-Cohort">🔗 View Details</a>
+      </em><br/><br/>
+      📅 <strong>Dec 2025 – Jun 2026 (Expected)</strong>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div>
-  <img
-    src="https://github.com/user-attachments/assets/d9c9f9ff-a2d3-4957-a2b1-26c3b81144fb"
-    width="100"
-    align="left"
-    hspace="30"/>
-  <div>
-    <strong>Kangwon National University, Main Campus (강원대학교, 본교) </strong><br/>
-    <em>&nbsp;B.S. in Computer Science and Engineering (컴퓨터 공학과) </em><br/>
-    📅 Mar 2020 – Feb 2026<br/>
-    🎓 <strong>GPA: 4.40 / 4.50</strong>
-  </div>
-  <br clear="left"/>
-</div>
+<table width="860" align="left">
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <img
+        src="https://github.com/user-attachments/assets/d9c9f9ff-a2d3-4957-a2b1-26c3b81144fb"
+        width="92"
+        alt="Kangwon National University"
+      />
+    </td>
+    <td width="700" valign="top">
+      <strong>Kangwon National University, Main Campus (강원대학교, 본교)</strong><br/>
+      <em>B.S. in Computer Science and Engineering (컴퓨터공학과)</em><br/><br/>
+      📅 <strong>Mar 2020 – Feb 2026</strong><br/>
+      🎓 <strong>GPA: 4.40 / 4.50</strong>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div>
-  <img
-    src="https://github.com/user-attachments/assets/c8933d2c-0964-4aa2-a326-6b0d0845b6f1"
-    width="70"
-    align="left"
-    hspace="45"/>
-  <div>
-    <strong>Bucheon High School (부천고등학교) </strong><br/>
-    📅 Mar 2017 – Jan 2019
-  </div>
-  <br clear="left"/>
-</div>
+<table width="860" align="left">
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <img
+        src="https://github.com/user-attachments/assets/c8933d2c-0964-4aa2-a326-6b0d0845b6f1"
+        width="72"
+        alt="Bucheon High School"
+      />
+    </td>
+    <td width="700" valign="top">
+      <strong>Bucheon High School (부천고등학교)</strong><br/><br/>
+      📅 <strong>Mar 2017 – Jan 2019</strong>
+    </td>
+  </tr>
+</table>
