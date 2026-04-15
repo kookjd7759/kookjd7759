@@ -191,8 +191,6 @@
 
 ## 🎓 Education 🎓  
 
-## 🎓 Education
-
 <table width="860" align="left">
   <tr>
     <td width="150" align="center" valign="middle">
