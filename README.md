@@ -203,16 +203,15 @@
     <td width="700" valign="top">
       <strong>Hyundai AutoEver Mobility SW School, 3rd Cohort</strong>
       <sub>(현대오토에버 모빌리티 SW 스쿨 3기)</sub><br/>
-        Embedded Software, 6th Cohort 
+      Embedded Software, 6th Cohort 
       <sub>(임베디드 SW 6기)</sub><br/><br/>
       📅 <strong>Dec 2025 – Jun 2026 (Expected)</strong><br/><br/>
-      <em>
-        <sub><a href="https://github.com/SW-6-3-3rd-Party/Vehicle_Anti-rollaway_Protection_System">
-          <img src="https://img.shields.io/badge/Repository-STURDY NOTE-181717?style=flat&logo=github&logoColor=white" alt="Repository-STURDY NOTE" />
-        </a></sub>
-      </em><br/>
+      <a href="https://github.com/SW-6-3-3rd-Party/Vehicle_Anti-rollaway_Protection_System">
+        <img src="https://img.shields.io/badge/Repository-STURDY%20NOTE-181717?style=flat&logo=github&logoColor=white" alt="Repository - STURDY NOTE" />
+      </a>
     </td>
   </tr>
+</table>
 </table>
 
 <br/>
@@ -232,7 +231,8 @@
       <em>B.S. in Computer Science and Engineering</em>
       <sub>(컴퓨터공학과)</sub><br/><br/>
       📅 <strong>Mar 2020 – Feb 2026</strong><br/>
-      🎓 <strong>GPA: 4.40 / 4.50</strong>
+      🎓 <strong>GPA: 4.40 / 4.50</strong><br/><br/>
+      <a href="https://github.com/kookjd7759/Kangwon-Univ"><img src="https://img.shields.io/badge/Repository-KNU_PROJECT-181717?style=flat&logo=github&logoColor=white" alt="Repository-KNU_PROJECT" /></a>
     </td>
   </tr>
 </table>
