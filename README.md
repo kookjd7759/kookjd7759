@@ -227,8 +227,10 @@
       />
     </td>
     <td width="700" valign="top">
-      <strong>Kangwon National University, Main Campus (강원대학교, 본교)</strong><br/>
-      <em>B.S. in Computer Science and Engineering (컴퓨터공학과)</em><br/><br/>
+      <strong>Kangwon National University, Main Campus</strong>
+      <sub>(강원대학교, 본교)</sub><br/>
+      <em>B.S. in Computer Science and Engineering</em>
+      <sub>(컴퓨터공학과)</sub><br/><br/>
       📅 <strong>Mar 2020 – Feb 2026</strong><br/>
       🎓 <strong>GPA: 4.40 / 4.50</strong>
     </td>
@@ -247,7 +249,8 @@
       />
     </td>
     <td width="700" valign="top">
-      <strong>Bucheon High School (부천고등학교)</strong><br/><br/>
+      <strong>Bucheon High School </strong>
+      <sub>(부천고등학교)</sub><br/><br/>
       📅 <strong>Mar 2017 – Jan 2019</strong>
     </td>
   </tr>
