@@ -103,7 +103,7 @@
     </td>
     <td align="center" valign="top" width="60%">
       <h4>Solved.ac Profile</h4>
-      <img src="https://solvedac-readme-stats.vercel.app/api?handle=kookjd7759"/>
+      <img src="https://github.com/kookjd7759/solvedac-readme-stats/blob/main/svg/solvedac-kookjd7759-v2.svg"/>
     </td>
   </tr>
 </table>
