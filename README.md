@@ -244,7 +244,7 @@
     <td width="150" align="center" valign="middle">
       <img
         src="https://github.com/user-attachments/assets/c8933d2c-0964-4aa2-a326-6b0d0845b6f1"
-        width="60"
+        width="50"
         alt="Bucheon High School"
       />
     </td>
