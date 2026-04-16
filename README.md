@@ -206,7 +206,9 @@
       <em>
         Embedded Software, 6th Cohort 
       <sub>(임베디드 SW 6기)</sub><br/>
-        <sub><a href="https://github.com/kookjd7759/Hyundai-AutoEver-Mobility-SW-School-3rd-Cohort">🔗 View Details</a></sub>
+        <sub><a href="https://github.com/SW-6-3-3rd-Party/Vehicle_Anti-rollaway_Protection_System">
+          <img src="https://img.shields.io/badge/Repository-STURDY NOTE-181717?style=flat&logo=github&logoColor=white" alt="Repository-STURDY NOTE" />
+        </a></sub>
       </em><br/>
       📅 <strong>Dec 2025 – Jun 2026 (Expected)</strong>
     </td>
