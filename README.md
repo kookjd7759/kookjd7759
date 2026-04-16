@@ -206,12 +206,12 @@
       Embedded Software, 6th Cohort 
       <sub>(임베디드 SW 6기)</sub><br/><br/>
       📅 <strong>Dec 2025 – Jun 2026 (Expected)</strong><br/><br/>
-      <a href="https://github.com/SW-6-3-3rd-Party/Vehicle_Anti-rollaway_Protection_System">
-        <img src="https://img.shields.io/badge/Repository-STURDY%20NOTE-181717?style=flat&logo=github&logoColor=white" alt="Repository - STURDY NOTE" />
-      </a>
+      <p>
+        <a href="https://github.com/SW-6-3-3rd-Party/Vehicle_Anti-rollaway_Protection_System"><img height="20" src="https://img.shields.io/badge/Repository-STURDY%20NOTE-181717?style=flat&logo=github&logoColor=white" alt="Repository - STURDY NOTE" /></a>&nbsp;
+        <a href="https://github.com/SW-6-3-3rd-Party"><img height="20" src="https://img.shields.io/badge/Organizations-3RD_PARTY%20NOTE-3B82F6?style=flat&logo=github&logoColor=FFFFFF&labelColor=1E293B" alt="Organizations-3RD_PARTY" /></a>
+      </p>
     </td>
   </tr>
-</table>
 </table>
 
 <br/>
