@@ -268,9 +268,10 @@
       <sub>(임베디드 SW 6기)</sub><br/><br/>
       📅 <strong>Dec 2025 – Jun 2026 (Expected)</strong><br/><br/>
       <p>
-        <a href="https://github.com/SW-6-3-3rd-Party/Vehicle_Anti-rollaway_Protection_System"><img height="20" src="https://img.shields.io/badge/Repository-STURDY%20NOTE-181717?style=flat&logo=github&logoColor=white" alt="Repository - STURDY NOTE" /></a>&nbsp;
+        <a href="https://github.com/kookjd7759/Hyundai-AutoEver-Mobility-SW-School-3rd-Cohort"><img height="20" src="https://img.shields.io/badge/Repository-STURDY%20NOTE-181717?style=flat&logo=github&logoColor=white" alt="Repository - STURDY NOTE" /></a>&nbsp;
         <a href="https://github.com/SW-6-3-3rd-Party"><img height="20" src="https://img.shields.io/badge/Organizations-3RD_PARTY-3B82F6?style=flat&logo=github&logoColor=FFFFFF&labelColor=1E293B" alt="Organizations-3RD_PARTY" /></a>
       </p>
+      <a href="https://github.com/SW-6-3-3rd-Party/Vehicle_Anti-rollaway_Protection_System"><img height="20" src="https://img.shields.io/badge/Repository-VAPS-181717?style=flat&logo=github&logoColor=white" alt="Repository-VAPS" />
     </td>
   </tr>
 </table>
@@ -340,7 +341,10 @@
       <sub>(컴퓨터공학과)</sub><br/><br/>
       📅 <strong>Mar 2020 – Feb 2026</strong><br/>
       🎓 <strong>GPA: 4.40 / 4.50</strong><br/><br/>
-      <a href="https://github.com/kookjd7759/Kangwon-Univ"><img src="https://img.shields.io/badge/Repository-KNU_PROJECTS-181717?style=flat&logo=github&logoColor=white" alt="Repository-KNU_PROJECTS" /></a>
+      <p>
+      <a href="https://github.com/kookjd7759/Kangwon-Univ"><img src="https://img.shields.io/badge/Repository-KNU_PROJECTS-181717?style=flat&logo=github&logoColor=white" alt="Repository-KNU_PROJECTS" /></a>&nbsp;
+      <a href="https://github.com/kookjd7759/Forest-Raven"><img src="https://img.shields.io/badge/Repository-FOREST--RAVEN-181717?style=flat&logo=github&logoColor=white" alt="Repository-FOREST-RAVEN" /></a>
+      </p>
     </td>
   </tr>
 </table>
