@@ -250,7 +250,7 @@
 
 
 
-## 🎓 Education 🎓  
+## Background  
 
 <table width="860" align="left">
   <tr>
@@ -271,6 +271,28 @@
         <a href="https://github.com/SW-6-3-3rd-Party/Vehicle_Anti-rollaway_Protection_System"><img height="20" src="https://img.shields.io/badge/Repository-STURDY%20NOTE-181717?style=flat&logo=github&logoColor=white" alt="Repository - STURDY NOTE" /></a>&nbsp;
         <a href="https://github.com/SW-6-3-3rd-Party"><img height="20" src="https://img.shields.io/badge/Organizations-3RD_PARTY-3B82F6?style=flat&logo=github&logoColor=FFFFFF&labelColor=1E293B" alt="Organizations-3RD_PARTY" /></a>
       </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="860" align="left">
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <img
+        src="https://github.com/user-attachments/assets/0bc3213e-41eb-4af9-a8e4-2a0181168fb8"
+        width="92"
+        alt="Solimatics"
+      />
+    </td>
+    <td width="700" valign="top">
+      <strong>Solimatics</strong>
+      <sub>(솔리메틱스)</sub><br/>
+      <em>Construction Site IT Solutions Company</em>
+      <sub>(건설 현장 IT 솔루션 회사)</sub><br/><br/>
+      📅 <strong>Mar 2025 – Dec 2025</strong><br/><br/>
+      <a href="https://github.com/kookjd7759/Video-analysis"><img src="https://img.shields.io/badge/Repository-VIDEO_ANALYSIS-181717?style=flat&logo=github&logoColor=white" alt="RRepository-VIDEO_ANALYSIS" /></a>
     </td>
   </tr>
 </table>
