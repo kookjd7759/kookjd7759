@@ -232,7 +232,7 @@
       <sub>(컴퓨터공학과)</sub><br/><br/>
       📅 <strong>Mar 2020 – Feb 2026</strong><br/>
       🎓 <strong>GPA: 4.40 / 4.50</strong><br/><br/>
-      <a href="https://github.com/kookjd7759/Kangwon-Univ"><img src="https://img.shields.io/badge/Repository-KNU_PROJECT-181717?style=flat&logo=github&logoColor=white" alt="Repository-KNU_PROJECT" /></a>
+      <a href="https://github.com/kookjd7759/Kangwon-Univ"><img src="https://img.shields.io/badge/Repository-KNU_PROJECTS-181717?style=flat&logo=github&logoColor=white" alt="Repository-KNU_PROJECTS" /></a>
     </td>
   </tr>
 </table>
