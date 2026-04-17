@@ -118,7 +118,7 @@
   <sub> 강원대학교 · 2021.02.15</sub>
   <sub>
     <a href="https://github.com/user-attachments/assets/66f83c4b-3d04-495f-82c7-c510f67310ce">
-      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-F3EFE8?style=flat" alt="View Evidence" height="17"/>
     </a>
   </sub><br />
 
@@ -127,7 +127,7 @@
   <sub> 강원대학교 · 2021.09.01</sub>
   <sub>
     <a href="https://github.com/user-attachments/assets/f2b057b7-6070-4b25-933c-bd0b76b389d7">
-      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-F3EFE8?style=flat" alt="View Evidence" height="17"/>
     </a>
   </sub><br />
 
@@ -136,7 +136,7 @@
   <sub> 과학기술정보통신부 & 정보통신산업진흥원 · 2021.11.07</sub>
   <sub>
     <a href="https://github.com/user-attachments/assets/89a15c58-e49d-4ef0-a14d-0e153e295c08">
-      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-F3EFE8?style=flat" alt="View Evidence" height="17"/>
     </a>
   </sub><br />
 
@@ -145,7 +145,7 @@
   <sub> 과학기술정보통신부 & 정보통신산업진흥원 · 2022.10.05</sub>
   <sub>
     <a href="https://github.com/user-attachments/assets/0176e22d-38e1-4806-af5e-626a16c9c104">
-      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-F3EFE8?style=flat" alt="View Evidence" height="17"/>
     </a>
   </sub><br />
 
@@ -154,7 +154,7 @@
   <sub> 한국정보처리학회 · 2022.11.04</sub>
   <sub>
     <a href="https://github.com/user-attachments/assets/d411ebd8-acb7-4b69-813c-25aa827dc5d6">
-      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-F3EFE8?style=flat" alt="View Evidence" height="17"/>
     </a>
   </sub><br />
 
@@ -163,7 +163,7 @@
   <sub> 한국정보처리학회 · 2023.05.19</sub>
   <sub>
     <a href="https://github.com/user-attachments/assets/723bdde1-d4e3-47b0-86f7-b846506d5bf5">
-      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-F3EFE8?style=flat" alt="View Evidence" height="17"/>
     </a>
   </sub><br />
 
@@ -172,7 +172,7 @@
   <sub> 한국언론진흥재단 · 2024.11.16</sub>
   <sub>
     <a href="https://github.com/user-attachments/assets/98ddc0c5-6342-41b4-9cb5-bc8a040300e0">
-      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-F3EFE8?style=flat" alt="View Evidence" height="17"/>
     </a>
   </sub><br />
 
@@ -181,7 +181,7 @@
   <sub> 강원대학교, 최우혁 · 2025.06.19</sub>
   <sub>
     <a href="https://github.com/user-attachments/assets/f8c74b8c-e41b-456e-a084-df4b6b6536b3">
-      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-F3EFE8?style=flat" alt="View Evidence" height="17"/>
     </a>
   </sub><br />
 
@@ -234,7 +234,7 @@
   <sub>국동균, 한성수. (2022). 커뮤니케이션 플랫폼을 활용한 단말 기기 원격 제어 및 IoT 서비스. 한국정보처리학회 학술대회논문집, 29(2), 110-112.</sub>  
   <sub>
     <a href="https://kiss.kstudy.com/Detail/Ar?key=3988321">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20View%20Paper-4C84C4?style=flat&logoColor=white" alt="View Paper" height="17"/>
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20View%20Paper-EEF4FB?style=flat" alt="View Paper" height="17"/>
     </a>
   </sub><br />
 
@@ -242,7 +242,7 @@
   <sub>국동균, 한성수. (2023). 태양열 에너지 발전을 통한 가상화폐 채굴. 한국정보처리학회 학술대회논문집, 30(1), 76-77.</sub>  
   <sub>
     <a href="https://kiss.kstudy.com/Detail/Ar?key=4028267">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20View%20Paper-4C84C4?style=flat&logoColor=white" alt="View Paper" height="17"/>
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20View%20Paper-EEF4FB?style=flat" alt="View Paper" height="17"/>
     </a>
   </sub><br />
 
