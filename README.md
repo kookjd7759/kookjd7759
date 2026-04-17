@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=1&text=Dong-gyun%20Kook&reversal=true&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlign=67&fontAlignY=30&desc=💻%20🇰🇷&descSize=40&descAlignY=20&descAlign=8&stroke=FFFFFF&strokeWidth=2)
 ---  
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+profile!" />
@@ -115,42 +116,74 @@
 - **2020학년도 강원대학교 핵심역량진단 수기 공모전**  
   **🥉 장려상(Encouragement Award)**
   <sub> 강원대학교 · 2021.02.15</sub>
-  <sub><a href="https://github.com/user-attachments/assets/66f83c4b-3d04-495f-82c7-c510f67310ce">🖼️ View Evidence</a></sub>  
+  <sub>
+    <a href="https://github.com/user-attachments/assets/66f83c4b-3d04-495f-82c7-c510f67310ce">
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+    </a>
+  </sub><br />
 
 - **2021년도 SW학습/활동 수기 공모전**  
   **🥉 장려상(Encouragement Award)**
   <sub> 강원대학교 · 2021.09.01</sub>
-  <sub><a href="https://github.com/user-attachments/assets/f2b057b7-6070-4b25-933c-bd0b76b389d7">🖼️ View Evidence</a></sub>  
+  <sub>
+    <a href="https://github.com/user-attachments/assets/f2b057b7-6070-4b25-933c-bd0b76b389d7">
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+    </a>
+  </sub><br />
 
 - **2021 공공데이터 활용 문제해결 해커톤**  
   **🥉 장려상(Encouragement Award)**
   <sub> 과학기술정보통신부 & 정보통신산업진흥원 · 2021.11.07</sub>
-  <sub><a href="https://github.com/user-attachments/assets/89a15c58-e49d-4ef0-a14d-0e153e295c08">🖼️ View Evidence</a></sub>  
+  <sub>
+    <a href="https://github.com/user-attachments/assets/89a15c58-e49d-4ef0-a14d-0e153e295c08">
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+    </a>
+  </sub><br />
 
 - **2022년 동북권 공공데이터 활용 챌린지**  
   **🥉 장려상(Encouragement Award)**
   <sub> 과학기술정보통신부 & 정보통신산업진흥원 · 2022.10.05</sub>
-  <sub><a href="https://github.com/user-attachments/assets/0176e22d-38e1-4806-af5e-626a16c9c104">🖼️ View Evidence</a></sub>  
+  <sub>
+    <a href="https://github.com/user-attachments/assets/0176e22d-38e1-4806-af5e-626a16c9c104">
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+    </a>
+  </sub><br />
 
 - **ACK 2022 학부생 논문경진대회**  
   **🥉 장려상(Encouragement Award)**
   <sub> 한국정보처리학회 · 2022.11.04</sub>
-  <sub><a href="https://github.com/user-attachments/assets/d411ebd8-acb7-4b69-813c-25aa827dc5d6">🖼️ View Evidence</a></sub>  
+  <sub>
+    <a href="https://github.com/user-attachments/assets/d411ebd8-acb7-4b69-813c-25aa827dc5d6">
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+    </a>
+  </sub><br />
 
 - **ACK 2023 학부생 논문경진대회**  
   **🥈 은상(Silver Award)**
   <sub> 한국정보처리학회 · 2023.05.19</sub>
-  <sub><a href="https://github.com/user-attachments/assets/723bdde1-d4e3-47b0-86f7-b846506d5bf5">🖼️ View Evidence</a></sub>  
+  <sub>
+    <a href="https://github.com/user-attachments/assets/723bdde1-d4e3-47b0-86f7-b846506d5bf5">
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+    </a>
+  </sub><br />
 
 - **제5회 뉴스읽기 뉴스일기 공모전**  
   **🥇 금상(Gold Award)**
   <sub> 한국언론진흥재단 · 2024.11.16</sub>
-  <sub><a href="https://github.com/user-attachments/assets/98ddc0c5-6342-41b4-9cb5-bc8a040300e0">🖼️ View Evidence</a></sub>  
+  <sub>
+    <a href="https://github.com/user-attachments/assets/98ddc0c5-6342-41b4-9cb5-bc8a040300e0">
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+    </a>
+  </sub><br />
 
 - **HCI 2025 OUTSTANDING PROJECT AWARD**  
   **🏅 단독 수상(Sole Award Recipient)**
   <sub> 강원대학교, 최우혁 · 2025.06.19</sub>
-  <sub><a href="https://github.com/user-attachments/assets/f8c74b8c-e41b-456e-a084-df4b6b6536b3">🖼️ View Evidence</a></sub>  
+  <sub>
+    <a href="https://github.com/user-attachments/assets/f8c74b8c-e41b-456e-a084-df4b6b6536b3">
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-8D7B68?style=flat&logoColor=white" alt="View Evidence" height="17"/>
+    </a>
+  </sub><br />
 
 ### 🪪 Certificate (6)  
 - **🚗 1종 보통 운전 면허 (Class 1 Driver’s License)**  
@@ -181,7 +214,7 @@
   <sub>국동균, 한성수. (2022). 커뮤니케이션 플랫폼을 활용한 단말 기기 원격 제어 및 IoT 서비스. 한국정보처리학회 학술대회논문집, 29(2), 110-112.</sub>  
   <sub>
     <a href="https://kiss.kstudy.com/Detail/Ar?key=3988321">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20View%20Paper-6B7C93?style=flat&logoColor=white" alt="View Paper" height="17"/>
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20View%20Paper-4C84C4?style=flat&logoColor=white" alt="View Paper" height="17"/>
     </a>
   </sub><br />
 
@@ -189,7 +222,7 @@
   <sub>국동균, 한성수. (2023). 태양열 에너지 발전을 통한 가상화폐 채굴. 한국정보처리학회 학술대회논문집, 30(1), 76-77.</sub>  
   <sub>
     <a href="https://kiss.kstudy.com/Detail/Ar?key=4028267">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20View%20Paper-6B7C93?style=flat&logoColor=white" alt="View Paper" height="17"/>
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20View%20Paper-4C84C4?style=flat&logoColor=white" alt="View Paper" height="17"/>
     </a>
   </sub><br />
 
