@@ -303,6 +303,31 @@
   <tr>
     <td width="150" align="center" valign="middle">
       <img
+        src="https://github.com/user-attachments/assets/052d78d6-2af6-4ea2-a21e-ba86045d3ed5"
+        width="92"
+        alt="TheGon Global"
+      />
+    </td>
+    <td width="700" valign="top">
+      <strong>TheGon Global Co., Ltd.</strong>
+      <sub>((주)더곤글로벌)</sub><br/>
+      Computer facilities management
+      <sub>(컴퓨터시설 관리업)</sub><br/><br/>
+      📅 <strong>Dec 2022 – May 2023</strong><br/><br/>
+      <p>
+        <a href="https://github.com/kookjd7759/Mining-Manager"><img height="20" src="https://img.shields.io/badge/Repository-MINING_MANAGER-181717?style=flat&logo=github&logoColor=white" alt="Repository-MINING_MANAGER" /></a>&nbsp;
+        <a href="https://github.com/kookjd7759/Pi_Node_management"><img height="20" src="https://img.shields.io/badge/Repository-PI--NODE_MANAGEMENT-181717?style=flat&logo=github&logoColor=white" alt="Repository-PI--NODE_MANAGEMENT" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="860" align="left">
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <img
         src="https://github.com/user-attachments/assets/d9c9f9ff-a2d3-4957-a2b1-26c3b81144fb"
         width="92"
         alt="Kangwon National University"
