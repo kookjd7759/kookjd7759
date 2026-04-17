@@ -179,11 +179,19 @@
 ### 📜 Papers (2)  
 - **Remote control of terminal devices and IoT services using communication platform**  
   <sub>국동균, 한성수. (2022). 커뮤니케이션 플랫폼을 활용한 단말 기기 원격 제어 및 IoT 서비스. 한국정보처리학회 학술대회논문집, 29(2), 110-112.</sub>  
-  <sub><a href="https://kiss.kstudy.com/Detail/Ar?key=3988321">🌐 View Paper</a></sub>  
+  <sub>
+    <a href="https://kiss.kstudy.com/Detail/Ar?key=3988321">
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20View%20Paper-6B7C93?style=flat&logoColor=white" alt="View Paper" height="17"/>
+    </a>
+  </sub><br />
 
 - **Virtual currency mining through solar energy generation**  
-  <sub>국동균, 한성수. (2023). 태양열 에너지 발전을 통한 가상화폐 채굴. 한국정보처리학회 학술대회논문집, 30(1), 76-77.  </sub>  
-  <sub><a href="https://kiss.kstudy.com/Detail/Ar?key=4028267">🌐 View Paper</a></sub>  
+  <sub>국동균, 한성수. (2023). 태양열 에너지 발전을 통한 가상화폐 채굴. 한국정보처리학회 학술대회논문집, 30(1), 76-77.</sub>  
+  <sub>
+    <a href="https://kiss.kstudy.com/Detail/Ar?key=4028267">
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20View%20Paper-6B7C93?style=flat&logoColor=white" alt="View Paper" height="17"/>
+    </a>
+  </sub><br />
 
 <br/>
 
