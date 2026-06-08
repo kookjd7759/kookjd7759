@@ -221,7 +221,7 @@
     </a>
   </sub><br />
 
-- **🖧 네트워크 관리사 2 (Network Advisor Level - 2)**  
+- **🖧 네트워크 관리사 2급 (Network Advisor Level - 2)**  
   <sub>한국정보통신자격협회 (ICQA, Information and Communications Qualifications Association) · 2026.03.17</sub><br />
   <sub>
     <a href="https://github.com/user-attachments/assets/f760f8d1-20c3-4bbd-bb5e-dea3f3feec87">
