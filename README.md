@@ -364,7 +364,7 @@
     <td width="700" valign="top">
       <strong>Bucheon High School </strong>
       <sub>(부천고등학교)</sub><br/><br/>
-      📅 <strong>Mar 2017 – Jan 2019</strong>
+      📅 <strong>Mar 2017 – Jan 2020</strong>
     </td>
   </tr>
 </table>
