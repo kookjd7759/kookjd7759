@@ -275,7 +275,12 @@
       <strong>Hyundai AutoEver Mobility SW School, 3rd Cohort</strong>
       <sub>(현대오토에버 모빌리티 SW 스쿨 3기)</sub><br/>
       Embedded Software, 6th Cohort 
-      <sub>(임베디드 SW 6기)</sub><br/><br/>
+      <sub>(임베디드 SW 6기)</sub><br/>
+      <sub>
+    <a href="https://github.com/user-attachments/assets/c8a6bfee-8e7d-46d4-8530-5b2e74137b59">
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-F3EFE8?style=flat" alt="View Evidence" height="17"/>
+    </a>
+  </sub><br />
       📅 <strong>Dec 2025 – Jun 2026 (Expected)</strong><br/><br/>
       <p>
         <a href="https://github.com/kookjd7759/Hyundai-AutoEver-Mobility-SW-School-3rd-Cohort"><img height="20" src="https://img.shields.io/badge/Repository-STURDY%20NOTE-181717?style=flat&logo=github&logoColor=white" alt="Repository - STURDY NOTE" /></a>&nbsp;
@@ -286,7 +291,6 @@
     </td>
   </tr>
 </table>
-
 <br/>
 
 <table width="860" align="left">
