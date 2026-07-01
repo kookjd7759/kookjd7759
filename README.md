@@ -112,7 +112,7 @@
 </div>
 
 ## Experience  
-### 🏆 Awards (8)  
+### 🏆 Awards (9)  
 - **2020학년도 강원대학교 핵심역량진단 수기 공모전**  
   **🥉 장려상(Encouragement Award)**
   <sub> 강원대학교 · 2021.02.15</sub><br />
@@ -184,6 +184,16 @@
       <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-F3EFE8?style=flat" alt="View Evidence" height="17"/>
     </a>
   </sub><br />
+
+- **차량용 임베디드 SW 개발 프로젝트(On-Demend)**  
+  **🏅 우수상(Excellence Award)**
+  <sub> 현대오토에버, 현대NGV, 한국전파진흥협회 · 2026.06.30</sub><br />
+  <sub>
+    <a href="https://github.com/user-attachments/assets/c012b79d-309d-4b5f-ba60-50fb623c303f">
+      <img src="https://img.shields.io/badge/%F0%9F%96%BC%EF%B8%8F%20View%20Evidence-F3EFE8?style=flat" alt="View Evidence" height="17"/>
+    </a>
+  </sub><br />
+
 
 ### 🪪 Certificate (6)  
 - **🚗 1종 보통 운전 면허 (Class 1 Driver’s License)**  
