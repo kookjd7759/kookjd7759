@@ -287,7 +287,8 @@
         <a href="https://github.com/SW-6-3-3rd-Party"><img height="20" src="https://img.shields.io/badge/Organizations-3RD_PARTY-3B82F6?style=flat&logo=github&logoColor=FFFFFF&labelColor=1E293B" alt="Organizations-3RD_PARTY" /></a>
       </p>
       <a href="https://github.com/SW-6-3-3rd-Party/Vehicle_Anti-rollaway_Protection_System"><img height="20" src="https://img.shields.io/badge/Repository-VAPS-181717?style=flat&logo=github&logoColor=white" alt="Repository-VAPS" /></a>&nbsp;
-      <a href="https://github.com/SW-6-3-3rd-Party/Remote-Vehicle-Call-and-Return-System"><img height="20" src="https://img.shields.io/badge/Repository-ReV--CaRS-181717?style=flat&logo=github&logoColor=white" alt="Repository-ReV-CaRS" />
+      <a href="https://github.com/SW-6-3-3rd-Party/Remote-Vehicle-Call-and-Return-System"><img height="20" src="https://img.shields.io/badge/Repository-ReV--CaRS-181717?style=flat&logo=github&logoColor=white" alt="Repository-ReV-CaRS" /></a>&nbsp;
+      <a href="https://github.com/SW-6-3-3rd-Party/OTA-based_Advanced_Driver_Assistance_System"><img height="20" src="https://img.shields.io/badge/Repository-O--ADAS-181717?style=flat&logo=github&logoColor=white" alt="Repository-O-ADAS" />
     </td>
   </tr>
 </table>
