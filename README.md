@@ -185,7 +185,7 @@
     </a>
   </sub><br />
 
-- **차량용 임베디드 SW 개발 프로젝트(On-Demend)**  
+- **차량용 임베디드 SW 개발 프로젝트(On-Demand)**  
   **🏅 우수 프로젝트상(Outstanding Project Award)**
   <sub> 현대오토에버, 현대NGV, 한국전파진흥협회 · 2026.06.30</sub><br />
   <sub>
