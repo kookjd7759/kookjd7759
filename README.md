@@ -177,7 +177,7 @@
   </sub><br />
 
 - **HCI 2025 OUTSTANDING PROJECT AWARD**  
-  **🏅 단독 수상(Sole Award Recipient)**
+  **🏅 우수 프로젝트상(Outstanding Project Award)**
   <sub> 강원대학교, 최우혁 · 2025.06.19</sub><br />
   <sub>
     <a href="https://github.com/user-attachments/assets/f8c74b8c-e41b-456e-a084-df4b6b6536b3">
